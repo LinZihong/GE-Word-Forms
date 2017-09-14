@@ -1,0 +1,2258 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="utf-8" />
+      <title>result</title>
+      <style>.markdown-preview:not([data-use-github-style]) { padding: 2em; font-size: 1.2em; color: rgb(186, 190, 189); background-color: rgb(14, 17, 18); overflow: auto; }
+.markdown-preview:not([data-use-github-style]) > :first-child { margin-top: 0px; }
+.markdown-preview:not([data-use-github-style]) h1, .markdown-preview:not([data-use-github-style]) h2, .markdown-preview:not([data-use-github-style]) h3, .markdown-preview:not([data-use-github-style]) h4, .markdown-preview:not([data-use-github-style]) h5, .markdown-preview:not([data-use-github-style]) h6 { line-height: 1.2; margin-top: 1.5em; margin-bottom: 0.5em; color: rgb(255, 255, 255); }
+.markdown-preview:not([data-use-github-style]) h1 { font-size: 2.4em; font-weight: 300; }
+.markdown-preview:not([data-use-github-style]) h2 { font-size: 1.8em; font-weight: 400; }
+.markdown-preview:not([data-use-github-style]) h3 { font-size: 1.5em; font-weight: 500; }
+.markdown-preview:not([data-use-github-style]) h4 { font-size: 1.2em; font-weight: 600; }
+.markdown-preview:not([data-use-github-style]) h5 { font-size: 1.1em; font-weight: 600; }
+.markdown-preview:not([data-use-github-style]) h6 { font-size: 1em; font-weight: 600; }
+.markdown-preview:not([data-use-github-style]) strong { color: rgb(255, 255, 255); }
+.markdown-preview:not([data-use-github-style]) del { color: rgb(143, 151, 148); }
+.markdown-preview:not([data-use-github-style]) a, .markdown-preview:not([data-use-github-style]) a code { color: rgb(186, 190, 189); }
+.markdown-preview:not([data-use-github-style]) img { max-width: 100%; }
+.markdown-preview:not([data-use-github-style]) > p { margin-top: 0px; margin-bottom: 1.5em; }
+.markdown-preview:not([data-use-github-style]) > ul, .markdown-preview:not([data-use-github-style]) > ol { margin-bottom: 1.5em; }
+.markdown-preview:not([data-use-github-style]) blockquote { margin: 1.5em 0px; font-size: inherit; color: rgb(143, 151, 148); border-color: rgb(50, 60, 64); border-width: 4px; }
+.markdown-preview:not([data-use-github-style]) hr { margin: 3em 0px; border-top: 2px dashed rgb(50, 60, 64); background: none; }
+.markdown-preview:not([data-use-github-style]) table { margin: 1.5em 0px; }
+.markdown-preview:not([data-use-github-style]) th { color: rgb(255, 255, 255); }
+.markdown-preview:not([data-use-github-style]) th, .markdown-preview:not([data-use-github-style]) td { padding: 0.66em 1em; border: 1px solid rgb(50, 60, 64); }
+.markdown-preview:not([data-use-github-style]) code { color: rgb(255, 255, 255); background-color: rgb(32, 39, 41); }
+.markdown-preview:not([data-use-github-style]) pre.editor-colors { margin: 1.5em 0px; padding: 1em; font-size: 0.92em; border-radius: 3px; background-color: rgb(23, 28, 29); }
+.markdown-preview:not([data-use-github-style]) kbd { color: rgb(255, 255, 255); border-width: 1px 1px 2px; border-style: solid; border-color: rgb(50, 60, 64) rgb(50, 60, 64) rgb(36, 44, 47); border-image: initial; background-color: rgb(32, 39, 41); }
+.markdown-preview[data-use-github-style] { font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif; line-height: 1.6; word-wrap: break-word; padding: 30px; font-size: 16px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); overflow: scroll; }
+.markdown-preview[data-use-github-style] > :first-child { margin-top: 0px !important; }
+.markdown-preview[data-use-github-style] > :last-child { margin-bottom: 0px !important; }
+.markdown-preview[data-use-github-style] a:not([href]) { color: inherit; text-decoration: none; }
+.markdown-preview[data-use-github-style] .absent { color: rgb(204, 0, 0); }
+.markdown-preview[data-use-github-style] .anchor { position: absolute; top: 0px; left: 0px; display: block; padding-right: 6px; padding-left: 30px; margin-left: -30px; }
+.markdown-preview[data-use-github-style] .anchor:focus { outline: none; }
+.markdown-preview[data-use-github-style] h1, .markdown-preview[data-use-github-style] h2, .markdown-preview[data-use-github-style] h3, .markdown-preview[data-use-github-style] h4, .markdown-preview[data-use-github-style] h5, .markdown-preview[data-use-github-style] h6 { position: relative; margin-top: 1em; margin-bottom: 16px; font-weight: bold; line-height: 1.4; }
+.markdown-preview[data-use-github-style] h1 .octicon-link, .markdown-preview[data-use-github-style] h2 .octicon-link, .markdown-preview[data-use-github-style] h3 .octicon-link, .markdown-preview[data-use-github-style] h4 .octicon-link, .markdown-preview[data-use-github-style] h5 .octicon-link, .markdown-preview[data-use-github-style] h6 .octicon-link { display: none; color: rgb(0, 0, 0); vertical-align: middle; }
+.markdown-preview[data-use-github-style] h1:hover .anchor, .markdown-preview[data-use-github-style] h2:hover .anchor, .markdown-preview[data-use-github-style] h3:hover .anchor, .markdown-preview[data-use-github-style] h4:hover .anchor, .markdown-preview[data-use-github-style] h5:hover .anchor, .markdown-preview[data-use-github-style] h6:hover .anchor { padding-left: 8px; margin-left: -30px; text-decoration: none; }
+.markdown-preview[data-use-github-style] h1:hover .anchor .octicon-link, .markdown-preview[data-use-github-style] h2:hover .anchor .octicon-link, .markdown-preview[data-use-github-style] h3:hover .anchor .octicon-link, .markdown-preview[data-use-github-style] h4:hover .anchor .octicon-link, .markdown-preview[data-use-github-style] h5:hover .anchor .octicon-link, .markdown-preview[data-use-github-style] h6:hover .anchor .octicon-link { display: inline-block; }
+.markdown-preview[data-use-github-style] h1 tt, .markdown-preview[data-use-github-style] h2 tt, .markdown-preview[data-use-github-style] h3 tt, .markdown-preview[data-use-github-style] h4 tt, .markdown-preview[data-use-github-style] h5 tt, .markdown-preview[data-use-github-style] h6 tt, .markdown-preview[data-use-github-style] h1 code, .markdown-preview[data-use-github-style] h2 code, .markdown-preview[data-use-github-style] h3 code, .markdown-preview[data-use-github-style] h4 code, .markdown-preview[data-use-github-style] h5 code, .markdown-preview[data-use-github-style] h6 code { font-size: inherit; }
+.markdown-preview[data-use-github-style] h1 { padding-bottom: 0.3em; font-size: 2.25em; line-height: 1.2; border-bottom: 1px solid rgb(238, 238, 238); }
+.markdown-preview[data-use-github-style] h1 .anchor { line-height: 1; }
+.markdown-preview[data-use-github-style] h2 { padding-bottom: 0.3em; font-size: 1.75em; line-height: 1.225; border-bottom: 1px solid rgb(238, 238, 238); }
+.markdown-preview[data-use-github-style] h2 .anchor { line-height: 1; }
+.markdown-preview[data-use-github-style] h3 { font-size: 1.5em; line-height: 1.43; }
+.markdown-preview[data-use-github-style] h3 .anchor { line-height: 1.2; }
+.markdown-preview[data-use-github-style] h4 { font-size: 1.25em; }
+.markdown-preview[data-use-github-style] h4 .anchor { line-height: 1.2; }
+.markdown-preview[data-use-github-style] h5 { font-size: 1em; }
+.markdown-preview[data-use-github-style] h5 .anchor { line-height: 1.1; }
+.markdown-preview[data-use-github-style] h6 { font-size: 1em; color: rgb(119, 119, 119); }
+.markdown-preview[data-use-github-style] h6 .anchor { line-height: 1.1; }
+.markdown-preview[data-use-github-style] p, .markdown-preview[data-use-github-style] blockquote, .markdown-preview[data-use-github-style] ul, .markdown-preview[data-use-github-style] ol, .markdown-preview[data-use-github-style] dl, .markdown-preview[data-use-github-style] table, .markdown-preview[data-use-github-style] pre { margin-top: 0px; margin-bottom: 16px; }
+.markdown-preview[data-use-github-style] hr { height: 4px; padding: 0px; margin: 16px 0px; background-color: rgb(231, 231, 231); border: 0px none; }
+.markdown-preview[data-use-github-style] ul, .markdown-preview[data-use-github-style] ol { padding-left: 2em; }
+.markdown-preview[data-use-github-style] ul.no-list, .markdown-preview[data-use-github-style] ol.no-list { padding: 0px; list-style-type: none; }
+.markdown-preview[data-use-github-style] ul ul, .markdown-preview[data-use-github-style] ul ol, .markdown-preview[data-use-github-style] ol ol, .markdown-preview[data-use-github-style] ol ul { margin-top: 0px; margin-bottom: 0px; }
+.markdown-preview[data-use-github-style] li > p { margin-top: 16px; }
+.markdown-preview[data-use-github-style] dl { padding: 0px; }
+.markdown-preview[data-use-github-style] dl dt { padding: 0px; margin-top: 16px; font-size: 1em; font-style: italic; font-weight: bold; }
+.markdown-preview[data-use-github-style] dl dd { padding: 0px 16px; margin-bottom: 16px; }
+.markdown-preview[data-use-github-style] blockquote { padding: 0px 15px; color: rgb(119, 119, 119); border-left: 4px solid rgb(221, 221, 221); }
+.markdown-preview[data-use-github-style] blockquote > :first-child { margin-top: 0px; }
+.markdown-preview[data-use-github-style] blockquote > :last-child { margin-bottom: 0px; }
+.markdown-preview[data-use-github-style] table { display: block; width: 100%; overflow: auto; word-break: keep-all; }
+.markdown-preview[data-use-github-style] table th { font-weight: bold; }
+.markdown-preview[data-use-github-style] table th, .markdown-preview[data-use-github-style] table td { padding: 6px 13px; border: 1px solid rgb(221, 221, 221); }
+.markdown-preview[data-use-github-style] table tr { background-color: rgb(255, 255, 255); border-top: 1px solid rgb(204, 204, 204); }
+.markdown-preview[data-use-github-style] table tr:nth-child(2n) { background-color: rgb(248, 248, 248); }
+.markdown-preview[data-use-github-style] img { max-width: 100%; box-sizing: border-box; }
+.markdown-preview[data-use-github-style] .emoji { max-width: none; }
+.markdown-preview[data-use-github-style] span.frame { display: block; overflow: hidden; }
+.markdown-preview[data-use-github-style] span.frame > span { display: block; float: left; width: auto; padding: 7px; margin: 13px 0px 0px; overflow: hidden; border: 1px solid rgb(221, 221, 221); }
+.markdown-preview[data-use-github-style] span.frame span img { display: block; float: left; }
+.markdown-preview[data-use-github-style] span.frame span span { display: block; padding: 5px 0px 0px; clear: both; color: rgb(51, 51, 51); }
+.markdown-preview[data-use-github-style] span.align-center { display: block; overflow: hidden; clear: both; }
+.markdown-preview[data-use-github-style] span.align-center > span { display: block; margin: 13px auto 0px; overflow: hidden; text-align: center; }
+.markdown-preview[data-use-github-style] span.align-center span img { margin: 0px auto; text-align: center; }
+.markdown-preview[data-use-github-style] span.align-right { display: block; overflow: hidden; clear: both; }
+.markdown-preview[data-use-github-style] span.align-right > span { display: block; margin: 13px 0px 0px; overflow: hidden; text-align: right; }
+.markdown-preview[data-use-github-style] span.align-right span img { margin: 0px; text-align: right; }
+.markdown-preview[data-use-github-style] span.float-left { display: block; float: left; margin-right: 13px; overflow: hidden; }
+.markdown-preview[data-use-github-style] span.float-left span { margin: 13px 0px 0px; }
+.markdown-preview[data-use-github-style] span.float-right { display: block; float: right; margin-left: 13px; overflow: hidden; }
+.markdown-preview[data-use-github-style] span.float-right > span { display: block; margin: 13px auto 0px; overflow: hidden; text-align: right; }
+.markdown-preview[data-use-github-style] code, .markdown-preview[data-use-github-style] tt { padding: 0.2em 0px; margin: 0px; font-size: 85%; background-color: rgba(0, 0, 0, 0.0392157); border-radius: 3px; }
+.markdown-preview[data-use-github-style] code::before, .markdown-preview[data-use-github-style] tt::before, .markdown-preview[data-use-github-style] code::after, .markdown-preview[data-use-github-style] tt::after { letter-spacing: -0.2em; content: " "; }
+.markdown-preview[data-use-github-style] code br, .markdown-preview[data-use-github-style] tt br { display: none; }
+.markdown-preview[data-use-github-style] del code { text-decoration: inherit; }
+.markdown-preview[data-use-github-style] pre > code { padding: 0px; margin: 0px; font-size: 100%; word-break: normal; white-space: pre; background: transparent; border: 0px; }
+.markdown-preview[data-use-github-style] .highlight { margin-bottom: 16px; }
+.markdown-preview[data-use-github-style] .highlight pre, .markdown-preview[data-use-github-style] pre { padding: 16px; overflow: auto; font-size: 85%; line-height: 1.45; background-color: rgb(247, 247, 247); border-radius: 3px; }
+.markdown-preview[data-use-github-style] .highlight pre { margin-bottom: 0px; word-break: normal; }
+.markdown-preview[data-use-github-style] pre { word-wrap: normal; }
+.markdown-preview[data-use-github-style] pre code, .markdown-preview[data-use-github-style] pre tt { display: inline; max-width: initial; padding: 0px; margin: 0px; overflow: initial; line-height: inherit; word-wrap: normal; background-color: transparent; border: 0px; }
+.markdown-preview[data-use-github-style] pre code::before, .markdown-preview[data-use-github-style] pre tt::before, .markdown-preview[data-use-github-style] pre code::after, .markdown-preview[data-use-github-style] pre tt::after { content: normal; }
+.markdown-preview[data-use-github-style] kbd { display: inline-block; padding: 3px 5px; font-size: 11px; line-height: 10px; color: rgb(85, 85, 85); vertical-align: middle; background-color: rgb(252, 252, 252); border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(204, 204, 204) rgb(187, 187, 187); border-image: initial; border-radius: 3px; box-shadow: rgb(187, 187, 187) 0px -1px 0px inset; }
+.markdown-preview[data-use-github-style] a { color: rgb(51, 122, 183); }
+.markdown-preview[data-use-github-style] code { color: inherit; }
+.markdown-preview[data-use-github-style] pre.editor-colors { padding: 0.8em 1em; margin-bottom: 1em; font-size: 0.85em; border-radius: 4px; overflow: auto; }
+.scrollbars-visible-always .markdown-preview pre.editor-colors .vertical-scrollbar, .scrollbars-visible-always .markdown-preview pre.editor-colors .horizontal-scrollbar { visibility: hidden; }
+.scrollbars-visible-always .markdown-preview pre.editor-colors:hover .vertical-scrollbar, .scrollbars-visible-always .markdown-preview pre.editor-colors:hover .horizontal-scrollbar { visibility: visible; }
+.markdown-preview .task-list-item-checkbox { position: absolute; margin: 0.25em 0px 0px -1.4em; }
+.bracket-matcher .region {
+  border-bottom: 1px dotted lime;
+  position: absolute;
+}
+
+.syntax--support.syntax--function.syntax--construct.syntax--end.syntax--blade .syntax--source.syntax--php {
+  color: inherit;
+}
+
+.spell-check-misspelling .region {
+  border-bottom: 2px dotted rgba(255, 51, 51, 0.75);
+}
+.spell-check-corrections {
+  width: 25em !important;
+}
+
+@import "styles/languages/css";
+.pre.editor-colors,
+pre.editor-colors {
+  background-color: #0e1112;
+  color: #babebd;
+}
+.pre.editor-colors .wrap-guide,
+pre.editor-colors .wrap-guide {
+  background: rgba(245, 250, 255, 0.04);
+}
+.pre.editor-colors .indent-guide,
+pre.editor-colors .indent-guide {
+  color: rgba(245, 250, 255, 0.04);
+}
+.pre.editor-colors .invisible-character,
+pre.editor-colors .invisible-character {
+  color: rgba(255, 255, 255, 0.1);
+}
+.pre.editor-colors .gutter,
+pre.editor-colors .gutter {
+  background-color: #090b0d;
+  color: #4d5a5e;
+}
+.pre.editor-colors .gutter .line-number,
+pre.editor-colors .gutter .line-number {
+  background: #090b0d;
+  color: #4d5a5e;
+  padding-left: 10px;
+}
+.pre.editor-colors .gutter .line-number.cursor-line,
+pre.editor-colors .gutter .line-number.cursor-line {
+  background-color: #0e1112;
+  color: #519aba;
+  font-weight: 100;
+}
+.pre.editor-colors .gutter .line-number.cursor-line-no-selection,
+pre.editor-colors .gutter .line-number.cursor-line-no-selection {
+  background-color: #0e1112 !important;
+  color: #519aba;
+}
+.pre.editor-colors .gutter .line-number:hover,
+pre.editor-colors .gutter .line-number:hover {
+  background-color: #090b0d !important;
+  color: #519aba;
+}
+.pre.editor-colors .gutter .line-number.folded,
+pre.editor-colors .gutter .line-number.folded,
+.pre.editor-colors .gutter .line-number:after,
+pre.editor-colors .gutter .line-number:after,
+.pre.editor-colors .fold-marker:after,
+pre.editor-colors .fold-marker:after {
+  color: #FFF;
+  background: #4d5a5e;
+}
+.pre.editor-colors .invisible,
+pre.editor-colors .invisible {
+  color: rgba(255, 255, 255, 0.1);
+}
+.pre.editor-colors .cursor,
+pre.editor-colors .cursor {
+  border-color: #babebd !important;
+  border-left: solid 2px;
+}
+.pre.editor-colors .selection .region,
+pre.editor-colors .selection .region {
+  background-color: #1d5b91;
+}
+.pre.editor-colors .scroll-view,
+pre.editor-colors .scroll-view {
+  padding-left: 10px;
+}
+.pre.editor-colors .line.cursor-line,
+pre.editor-colors .line.cursor-line {
+  background: rgba(0, 0, 0, 0.2) !important;
+}
+.bracket-matcher .region {
+  border-bottom: 1px solid #519aba;
+  margin-top: 2px;
+}
+pre.editor-colors[mini] .scroll-view,
+pre.editor-colors.mini .scroll-view {
+  padding-left: 1px;
+}
+.syntax--text {
+  color: #babebd;
+}
+.syntax--complete_tag {
+  color: #7494a3;
+}
+.syntax--comment {
+  color: #4d5a5e;
+  background: none;
+}
+.syntax--constant {
+  color: #a074c4;
+}
+.syntax--constant.syntax--character.syntax--escape {
+  color: #a074c4;
+}
+.syntax--constant.syntax--name.syntax--attribute.syntax--tag {
+  color: #519aba;
+}
+.syntax--constant.syntax--numeric {
+  color: #a074c4;
+}
+.syntax--constant.syntax--other.syntax--color {
+  color: #a074c4;
+}
+.syntax--constant.syntax--other.syntax--symbol {
+  color: #a074c4;
+}
+.syntax--entity {
+  color: #cbcb41;
+}
+.syntax--entity.syntax--name.syntax--class,
+.syntax--entity.syntax--name.syntax--type.syntax--class {
+  color: #a074c4;
+}
+.syntax--entity.syntax--name.syntax--function {
+  color: #cbcb41;
+}
+.syntax--entity.syntax--name.syntax--section {
+  color: #cbcb41;
+}
+.syntax--entity.syntax--name.syntax--tag {
+  color: #519aba;
+  text-decoration: none;
+}
+.syntax--entity.syntax--name.syntax--tag.syntax--block,
+.syntax--entity.syntax--name.syntax--tag.syntax--inline,
+.syntax--entity.syntax--name.syntax--tag.syntax--name {
+  color: #519aba;
+}
+.syntax--entity.syntax--name.syntax--tag.syntax--structure {
+  color: #519aba;
+}
+.syntax--entity.syntax--name.syntax--tag.syntax--block {
+  color: #519aba;
+}
+.syntax--entity.syntax--name.syntax--type {
+  color: #519aba;
+  text-decoration: none;
+}
+.syntax--entity.syntax--name.syntax--type.syntax--tag {
+  color: #8dc149;
+}
+.syntax--entity.syntax--other.syntax--attribute-name {
+  color: #8dc149;
+}
+.syntax--entity.syntax--other.syntax--attribute-name.syntax--id {
+  color: #8dc149;
+}
+.syntax--entity.syntax--other.syntax--inherited-class {
+  color: #cbcb41;
+}
+.syntax--invalid.syntax--illegal,
+.syntax--invalid.syntax--deprecated {
+  background: none;
+  color: #cc3e44;
+}
+.syntax--keyword {
+  color: #cc3e44;
+}
+.syntax--keyword.syntax--control {
+  color: #8dc149;
+}
+.syntax--keyword.syntax--operator {
+  color: #cc3e44;
+}
+.syntax--keyword.syntax--operator.syntax--assignment {
+  color: #4d5a5e;
+}
+.syntax--keyword.syntax--operator.syntax--new {
+  color: #7494a3;
+}
+.syntax--keyword.syntax--other.syntax--important {
+  color: #cc3e44;
+}
+.syntax--keyword.syntax--other.syntax--special-method {
+  color: #cc3e44;
+}
+.syntax--keyword.syntax--other.syntax--unit {
+  color: #cc3e44;
+}
+.syntax--markup.syntax--bold {
+  color: #babebd;
+  font-weight: bold;
+}
+.syntax--markup.syntax--changed {
+  color: #babebd;
+}
+.syntax--markup.syntax--deleted {
+  color: #babebd;
+}
+.syntax--markup.syntax--heading .syntax--punctuation.syntax--definition.syntax--heading {
+  color: #babebd;
+}
+.syntax--markup.syntax--inserted {
+  color: #babebd;
+}
+.syntax--markup.syntax--italic {
+  color: #babebd;
+  font-style: italic;
+}
+.syntax--markup.syntax--list {
+  color: #babebd;
+}
+.syntax--markup.syntax--quote {
+  color: #9ac4d7;
+}
+.syntax--markup.syntax--raw.syntax--inline {
+  color: #babebd;
+}
+.syntax--meta.syntax--link {
+  color: #babebd;
+}
+.syntax--meta.syntax--require {
+  color: #babebd;
+}
+.syntax--meta.syntax--brace.syntax--curly {
+  color: #6b7471;
+}
+.syntax--meta.syntax--brace.syntax--round {
+  color: #babebd;
+}
+.syntax--meta.syntax--control.syntax--flow {
+  color: #8dc149;
+}
+.syntax--meta.syntax--comma {
+  color: #4d5a5e;
+}
+.syntax--meta.syntax--selector {
+  color: #4d5a5e;
+}
+.syntax--meta.syntax--separator {
+  background-color: #4d5a5e;
+  color: #4d5a5e;
+}
+.syntax--meta.syntax--tag {
+  color: #519aba;
+}
+.syntax--none {
+  color: #babebd;
+}
+.syntax--punctuation {
+  color: #4d5a5e;
+}
+.syntax--punctuation.syntax--terminator {
+  color: #4d5a5e;
+}
+.syntax--punctuation.syntax--separator {
+  color: #4d5a5e;
+}
+.syntax--punctuation.syntax--definition {
+  color: #4d5a5e;
+}
+.syntax--punctuation.syntax--definition.syntax--array {
+  color: #519aba;
+}
+.syntax--punctuation.syntax--definition.syntax--bold {
+  color: #babebd;
+  font-weight: bold;
+}
+.syntax--punctuation.syntax--definition.syntax--comment {
+  color: #4d5a5e;
+}
+.syntax--punctuation.syntax--definition.syntax--heading,
+.syntax--punctuation.syntax--definition.syntax--identity,
+.syntax--punctuation.syntax--definition.syntax--italic {
+  color: #babebd;
+}
+.syntax--punctuation.syntax--definition.syntax--italic {
+  font-style: italic;
+}
+.syntax--punctuation.syntax--definition.syntax--string {
+  color: #519aba;
+}
+.syntax--punctuation.syntax--definition.syntax--string.syntax--begin,
+.syntax--punctuation.syntax--definition.syntax--string.syntax--end {
+  color: #9ac4d7;
+}
+.syntax--punctuation.syntax--definition.syntax--variable {
+  color: #7494a3;
+}
+.syntax--punctuation.syntax--definition.syntax--parameters {
+  color: #babebd;
+}
+.syntax--punctuation.syntax--definition.syntax--tag {
+  color: #519aba;
+}
+.syntax--punctuation.syntax--section.syntax--embedded {
+  color: #babebd;
+}
+.syntax--string {
+  color: #519aba;
+}
+.syntax--string .syntax--constant {
+  color: #a074c4;
+}
+.syntax--string.syntax--interpolated {
+  color: #7494a3;
+}
+.syntax--string.syntax--regexp {
+  color: #519aba;
+}
+.syntax--string.syntax--regexp .syntax--constant.syntax--character.syntax--escape,
+.syntax--string.syntax--regexp .syntax--source.syntax--ruby.syntax--embedded,
+.syntax--string.syntax--regexp .syntax--string.syntax--regexp.syntax--arbitrary-repitition {
+  color: #519aba;
+}
+.syntax--string.syntax--regexp.syntax--group {
+  color: #519aba;
+}
+.syntax--string.syntax--regexp.syntax--character-class {
+  color: #519aba;
+}
+.syntax--string.syntax--regexp .syntax--source.syntax--ruby.syntax--embedded {
+  color: #519aba;
+}
+.syntax--string.syntax--quoted.syntax--double {
+  color: #9ac4d7;
+}
+.syntax--string.syntax--quoted.syntax--single {
+  color: #9ac4d7;
+}
+.syntax--string .syntax--variable {
+  color: #7494a3;
+}
+.syntax--string.syntax--other.syntax--link {
+  color: #519aba;
+}
+.syntax--source {
+  color: #519aba;
+}
+.syntax--storage {
+  color: #d4d7d6;
+}
+.syntax--storage.syntax--modifier {
+  color: #d4d7d6;
+}
+.syntax--storage.syntax--type.syntax--class {
+  color: #d4d7d6;
+}
+.syntax--storage.syntax--type.syntax--function {
+  color: #d4d7d6;
+}
+.syntax--storage.syntax--type.syntax--var {
+  color: #d4d7d6;
+}
+.syntax--support {
+  color: #a074c4;
+}
+.syntax--support.syntax--class {
+  color: #a074c4;
+}
+.syntax--support.syntax--function {
+  color: #cbcb41;
+}
+.syntax--support.syntax--function.syntax--decl {
+  color: #519aba;
+}
+.syntax--support.syntax--constant {
+  color: #a074c4;
+}
+.syntax--support.syntax--type.syntax--property-name {
+  color: #babebd;
+}
+.syntax--variable {
+  color: #7494a3;
+}
+.syntax--variable.syntax--control.syntax--import.syntax--include {
+  color: #8dc149;
+}
+.syntax--variable.syntax--other {
+  color: #cc3e44;
+}
+.syntax--variable.syntax--other.syntax--property {
+  color: #cc3e44;
+}
+.syntax--variable.syntax--other.syntax--module {
+  color: #a074c4;
+}
+.syntax--variable.syntax--other.syntax--module-alias {
+  color: #519aba;
+}
+.syntax--variable.syntax--other.syntax--object {
+  color: #8dc149;
+}
+.syntax--variable.syntax--parameter.syntax--function {
+  color: #cbcb41;
+}
+.syntax--source.syntax--gfm {
+  color: #babebd;
+}
+.syntax--source.syntax--gfm .syntax--heading-1 {
+  color: #e37933;
+}
+.syntax--source.syntax--gfm .syntax--heading-2 {
+  color: #e68849;
+}
+.syntax--source.syntax--gfm .syntax--heading-3 {
+  color: #e99660;
+}
+.syntax--source.syntax--gfm .syntax--heading-4 {
+  color: #eca576;
+}
+.syntax--source.syntax--gfm .syntax--heading-5 {
+  color: #efb48d;
+}
+.syntax--source.syntax--gfm .syntax--heading-6 {
+  color: #f2c3a3;
+}
+.syntax--source.syntax--gfm .syntax--entity {
+  color: #cbcb41;
+}
+.syntax--source.syntax--gfm .syntax--link {
+  color: #8dc149;
+}
+.syntax--source.syntax--gfm .syntax--link .syntax--entity {
+  color: #a074c4;
+}
+.syntax--source.syntax--gfm .syntax--italic {
+  color: #cbcb41;
+}
+.syntax--source.syntax--gfm .syntax--bold {
+  color: #cbcb41;
+  font-weight: bold;
+}
+.syntax--source.syntax--gfm .syntax--variable.syntax--syntax.syntax--list {
+  color: #a2852f;
+}
+.syntax--source.syntax--gfm .syntax--hr {
+  color: #8dc149;
+}
+.syntax--source.syntax--gfm .syntax--comment.syntax--quote {
+  color: #9ac4d7;
+}
+.syntax--source.syntax--gfm .syntax--support.syntax--quote {
+  color: #0e1112;
+  background-color: #babebd;
+}
+.syntax--source.syntax--gfm .syntax--raw {
+  color: #cc3e44;
+  border: 1px solid #1c2326;
+  background-color: #1c2326;
+  border-radius: 3px;
+}
+.syntax--source.syntax--ink {
+  color: #babebd;
+}
+.syntax--jade,
+.syntax--pug {
+  color: #babebd;
+}
+.syntax--jade .syntax--comment,
+.syntax--pug .syntax--comment {
+  color: #4d5a5e;
+}
+.syntax--jade .syntax--name,
+.syntax--pug .syntax--name {
+  color: #519aba;
+}
+.syntax--jade .syntax--entity,
+.syntax--pug .syntax--entity {
+  color: #519aba;
+}
+.syntax--jade .syntax--string,
+.syntax--pug .syntax--string {
+  color: #519aba;
+}
+.syntax--jade .syntax--quoted,
+.syntax--pug .syntax--quoted {
+  color: #9ac4d7;
+}
+.syntax--jade .syntax--attribute-name,
+.syntax--pug .syntax--attribute-name,
+.syntax--jade .syntax--id,
+.syntax--pug .syntax--id {
+  color: #cc3e44 !important;
+}
+.syntax--jade .syntax--class,
+.syntax--pug .syntax--class {
+  color: #8dc149;
+}
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--string.syntax--quoted.syntax--json {
+  color: #519aba;
+}
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--string.syntax--quoted.syntax--json > .syntax--punctuation.syntax--string {
+  color: #519aba;
+}
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--value.syntax--json > .syntax--string.syntax--quoted.syntax--json,
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--array.syntax--json > .syntax--value.syntax--json > .syntax--string.syntax--quoted.syntax--json,
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--value.syntax--json > .syntax--string.syntax--quoted.syntax--json > .syntax--punctuation,
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--array.syntax--json > .syntax--value.syntax--json > .syntax--string.syntax--quoted.syntax--json > .syntax--punctuation {
+  color: #babebd;
+}
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--constant.syntax--language.syntax--json,
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--array.syntax--json > .syntax--constant.syntax--language.syntax--json {
+  color: #a074c4;
+}
+.syntax--source.syntax--md {
+  color: #babebd;
+}
+.syntax--source.syntax--md .syntax--heading-1 {
+  color: #e37933;
+}
+.syntax--source.syntax--md .syntax--heading-2 {
+  color: #e68849;
+}
+.syntax--source.syntax--md .syntax--heading-3 {
+  color: #e99660;
+}
+.syntax--source.syntax--md .syntax--heading-4 {
+  color: #eca576;
+}
+.syntax--source.syntax--md .syntax--heading-5 {
+  color: #efb48d;
+}
+.syntax--source.syntax--md .syntax--heading-6 {
+  color: #f2c3a3;
+}
+.syntax--source.syntax--md .syntax--entity {
+  color: #cbcb41;
+}
+.syntax--source.syntax--md .syntax--link {
+  color: #8dc149;
+}
+.syntax--source.syntax--md .syntax--link .syntax--entity {
+  color: #a074c4;
+}
+.syntax--source.syntax--md .syntax--italic {
+  color: #cbcb41;
+}
+.syntax--source.syntax--md .syntax--bold {
+  color: #cbcb41;
+  font-weight: bold;
+}
+.syntax--source.syntax--md .syntax--variable.syntax--syntax.syntax--list {
+  color: #a2852f;
+}
+.syntax--source.syntax--md .syntax--hr {
+  color: #8dc149;
+}
+.syntax--source.syntax--md .syntax--comment.syntax--quote {
+  color: #9ac4d7;
+}
+.syntax--source.syntax--md .syntax--support.syntax--quote {
+  color: #0e1112;
+  background-color: #babebd;
+}
+.syntax--source.syntax--md .syntax--raw {
+  color: #cc3e44;
+  border: 1px solid #1c2326;
+  background-color: #1c2326;
+  border-radius: 3px;
+}
+.syntax--mustache .syntax--meta.syntax--tag.syntax--template {
+  color: #519aba;
+}
+.syntax--mustache .syntax--meta.syntax--tag.syntax--template .syntax--entity.syntax--name.syntax--tag {
+  color: #9ac4d7;
+}
+.syntax--source.syntax--python .syntax--class {
+  color: #a074c4;
+}
+.syntax--source.syntax--python .syntax--support.syntax--function.syntax--magic,
+.syntax--source.syntax--python .syntax--inherited-class {
+  color: #93acb7;
+}
+.syntax--source.syntax--python .syntax--support.syntax--function.syntax--magic .syntax--support.syntax--function.syntax--builtin.syntax--python,
+.syntax--source.syntax--python .syntax--inherited-class .syntax--support.syntax--function.syntax--builtin.syntax--python {
+  color: #93acb7;
+}
+.syntax--source.syntax--python .syntax--storage,
+.syntax--source.syntax--python .syntax--keyword {
+  color: #d4d7d6;
+}
+.syntax--source.syntax--python .syntax--string {
+  color: #519aba;
+}
+.syntax--source.syntax--python .syntax--string.syntax--block {
+  color: #2f6076;
+}
+.syntax--source.syntax--python .syntax--string.syntax--block .syntax--keyword {
+  color: #2f6076;
+}
+pre.editor-colors .line.split-diff-added,
+pre.editor-colors.editor .line.split-diff-added {
+  background: #8dc149 !important;
+  color: rgba(0, 0, 0, 0.5) !important;
+}
+pre.editor-colors .line.split-diff-added .syntax--text span,
+pre.editor-colors.editor .line.split-diff-added .syntax--text span,
+pre.editor-colors .line.split-diff-added .syntax--source span,
+pre.editor-colors.editor .line.split-diff-added .syntax--source span {
+  color: rgba(0, 0, 0, 0.5) !important;
+}
+pre.editor-colors .line.split-diff-added .indent-guide,
+pre.editor-colors.editor .line.split-diff-added .indent-guide {
+  opacity: 0;
+}
+pre.editor-colors .line.split-diff-removed,
+pre.editor-colors.editor .line.split-diff-removed {
+  background: #cc3e44 !important;
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+pre.editor-colors .line.split-diff-removed .syntax--text span,
+pre.editor-colors.editor .line.split-diff-removed .syntax--text span,
+pre.editor-colors .line.split-diff-removed .syntax--source span,
+pre.editor-colors.editor .line.split-diff-removed .syntax--source span {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+pre.editor-colors .line.split-diff-removed .indent-guide,
+pre.editor-colors.editor .line.split-diff-removed .indent-guide {
+  opacity: 0;
+}
+</style>
+  </head>
+  <body class='markdown-preview' data-use-github-style><h1 id="hesitant">hesitant</h1>
+<p><code>adj.</code>
+hesitant 迟疑的；踌躇的；犹豫不定的</p>
+<p>hesitating 犹豫的</p>
+<p>hesitative 支吾其辞的；踌躇的</p>
+<p><code>adv.</code>
+hesitantly 迟疑地；踌躇地</p>
+<p>hesitatingly 踌躇地；支吾其词地</p>
+<p><code>n.</code>
+hesitation 犹豫</p>
+<p>hesitance 踌躇；犹豫</p>
+<p>hesitancy 踌躇，犹豫</p>
+<p><code>v.</code>
+hesitating 犹豫（hesitate的ing形式）</p>
+<p>﻿</p>
+<h1 id="hinder">hinder</h1>
+<p><code>adj.</code>
+hindermost 最后面的，最靠近后方的</p>
+<p>hindmost 最后面的，最后部的</p>
+<p><code>n.</code>
+hindrance 障碍；妨碍；妨害；阻碍物</p>
+<p>﻿</p>
+<h1 id="hostile">hostile</h1>
+<p><code>n.</code>
+hostility 敌意；战争行动</p>
+<p>﻿</p>
+<h1 id="humane">humane</h1>
+<p><code>adj.</code>
+humanitarian 人道主义的；博爱的；基督凡人论的</p>
+<p>humanistic 人文主义的；人道主义的</p>
+<p>humanism 人文主义的；人道主义的</p>
+<p>humanist 人文主义的；人道主义的</p>
+<p><code>adv.</code>
+humanly 以人力；像人地；在人力所能及的范围</p>
+<p>humanely 人道地；富人情地；慈悲地</p>
+<p><code>n.</code>
+humanity 人类；人道；仁慈；人文学科</p>
+<p>humanitarian 人道主义者；慈善家；博爱主义者；基督凡人论者</p>
+<p>humanism 人道主义</p>
+<p>humanist 人道主义者；人类学者，人文学者；人文主义者</p>
+<p>humanitarianism 人道主义；博爱主义</p>
+<p>humaneness 深情；慈悲</p>
+<p>humanise 变得有人性；变得仁慈；有教化力（等于humanize）</p>
+<p>humanness 为人，为人的资格；人性</p>
+<p><code>vi.</code>
+humanize 变为有人性；有教化</p>
+<p><code>vt.</code>
+humanize 教化；赋予人性；使通人情</p>
+<p>humanise （英）使人性化；使文明化</p>
+<p>﻿</p>
+<h1 id="humid">humid</h1>
+<p><code>adj.</code>
+humectant 湿润的；湿润剂的</p>
+<p><code>n.</code>
+humidity [气象] 湿度；湿气</p>
+<p>humectant [助剂] 湿润剂</p>
+<p><code>vt.</code>
+humidify 使潮湿；使湿润</p>
+<p>﻿</p>
+<h1 id="humiliate">humiliate</h1>
+<p><code>adj.</code>
+humiliated 羞辱的</p>
+<p>humiliating 丢脸的；羞辱性的</p>
+<p><code>n.</code>
+humiliation 丢脸，耻辱；蒙羞；谦卑</p>
+<p><code>v.</code>
+humiliated 屈辱（humiliate的过去式）；使…丢脸，使…蒙羞</p>
+<p>humiliating 使蒙耻（humiliate的ing形式）</p>
+<p>﻿</p>
+<h1 id="hypothesis">hypothesis</h1>
+<p><code>adv.</code>
+hypothetically 假设地；假想地</p>
+<p><code>n.</code>
+hypothesis 假设</p>
+<p><code>vi.</code>
+hypothesize 假设，假定</p>
+<p>hypothesise （英）假定；设定；假设（等于hypothesize）</p>
+<p><code>vt.</code>
+hypothesize 假设，假定</p>
+<p>hypothesise （英）假定；设定；假设（等于hypothesize）</p>
+<p>﻿</p>
+<h1 id="identify">identify</h1>
+<p><code>adj.</code>
+identified 被识别的；经鉴定的；被认同者</p>
+<p>identifiable 可辨认的；可认明的；可证明是同一的</p>
+<p><code>adv.</code>
+identifiably 可辨认地；可看作是相同地</p>
+<p><code>n.</code>
+identity 身份；同一性，一致；特性；恒等式</p>
+<p>identification 鉴定，识别；认同；身份证明</p>
+<p>identifier 标识符，认同者；检验人，鉴定人</p>
+<p>identifying 识别，标识；标识关系</p>
+<p><code>v.</code>
+identified 鉴定（identify的过去分词）；辨认</p>
+<p>identifying 识别（identify的现在分词）</p>
+<p>﻿</p>
+<h1 id="illuminate">illuminate</h1>
+<p><code>adj.</code>
+illuminated 被照明的</p>
+<p>illuminating 照亮的，照明的；启蒙的，有启发性的</p>
+<p><code>v.</code>
+illuminated 照明；启发；兴奋（illuminate的过去分词）</p>
+<p>illuminating 照明，阐释（illuminate的现在分词形式）</p>
+<p>﻿</p>
+<h1 id="illustrate">illustrate</h1>
+<p><code>adj.</code>
+illustrative 说明的；作例证的；解说的</p>
+<p><code>n.</code>
+illustration 说明；插图；例证；图解</p>
+<p>illustrator 插图画家；说明者；图解者</p>
+<p>﻿</p>
+<h1 id="imitate">imitate</h1>
+<p><code>adj.</code>
+imitation 人造的，仿制的</p>
+<p>imitative 模仿的；仿制的</p>
+<p><code>n.</code>
+imitation 模仿，仿造；仿制品</p>
+<p>imitator 模仿者；[自] 模拟器</p>
+<p>﻿</p>
+<h1 id="mature">mature</h1>
+<p><code>adj.</code>
+matured 成熟的；到期的</p>
+<p><code>adv.</code>
+maturely 成熟地；充分地</p>
+<p><code>n.</code>
+maturity 成熟；到期；完备</p>
+<p>maturation 成熟；化脓；生殖细胞之形成</p>
+<p><code>v.</code>
+matured 成熟；到期（mature的过去分词）</p>
+<p><code>vi.</code>
+maturate 成熟；化脓</p>
+<p><code>vt.</code>
+maturate 成熟；化脓；使化脓</p>
+<p>﻿</p>
+<h1 id="immune">immune</h1>
+<p><code>adj.</code>
+immunized 免疫的</p>
+<p>immunochemical 免疫化学的</p>
+<p><code>n.</code>
+immunity 免疫力；豁免权；免除</p>
+<p>immunization 免疫</p>
+<p>immunisation 免疫；免疫法</p>
+<p>immunoassay 免疫分析，免疫测定</p>
+<p>immunochemistry 免疫化学</p>
+<p>immunocompetence 免疫能力；免疫活性</p>
+<p><code>v.</code>
+immunized 使免疫（immunize的过去式、过去分词形式）</p>
+<p><code>vt.</code>
+immunize 使免疫；赋予免疫性</p>
+<p>immunise 使免疫（等于immunize）</p>
+<p>﻿</p>
+<h1 id="impartial">impartial</h1>
+<p><code>adv.</code>
+impartially 公平地；无私地</p>
+<p><code>n.</code>
+impartiality 公正，公平；不偏不倚</p>
+<p>﻿</p>
+<h1 id="expose">expose</h1>
+<p><code>adj.</code>
+exposed 暴露的，无掩蔽的</p>
+<p><code>n.</code>
+exposure 暴露；曝光；揭露；陈列</p>
+<p><code>v.</code>
+exposed 暴露，揭露（expose的过去分词）</p>
+<p>﻿</p>
+<h1 id="implausibly">implausibly</h1>
+<p><code>adv.</code>
+implausibly 难以置信地</p>
+<p><code>n.</code>
+implausibility 难以相信；不像真实</p>
+<p>﻿</p>
+<h1 id="impose">impose</h1>
+<p><code>adj.</code>
+imposed 强加的；施加的；应用的</p>
+<p>imposing （建筑物等）壮观的；威风的；（仪表）堂堂的；给人深刻印象的</p>
+<p><code>n.</code>
+imposition 征收；强加；欺骗；不公平的负担</p>
+<p>imposture 欺诈，欺骗；冒牌</p>
+<p><code>v.</code>
+imposed 欺骗（impose的过去分词）；把…强加于</p>
+<p>imposing impose的ing形式</p>
+<p>﻿</p>
+<h1 id="improve">improve</h1>
+<p><code>adj.</code>
+improving 有启发的；有教育意义的</p>
+<p>improvised 即兴的；临时准备的</p>
+<p><code>n.</code>
+improvisation 即兴创作；即席演奏</p>
+<p><code>v.</code>
+improving 提高；改善；利用（improve的ing形式）</p>
+<p>improvised 即兴创作；临时做，临时提供（improvise的过去分词）</p>
+<p><code>vi.</code>
+improve 增加；变得更好</p>
+<p><code>vt.</code>
+improve 改善，增进；提高…的价值</p>
+<p>﻿</p>
+<h1 id="impulse">impulse</h1>
+<p><code>adj.</code>
+impulsive 冲动的；受感情驱使的；任性的</p>
+<p><code>adv.</code>
+impulsively 有推动力地</p>
+<p><code>n.</code>
+impulsiveness 冲动</p>
+<p>impulsion 冲动；冲击；原动力</p>
+<p>﻿</p>
+<h1 id="incite">incite</h1>
+<p><code>n.</code>
+incitement 煽动，刺激；激励物</p>
+<p>incitation 激励；刺激；煽动；诱因</p>
+<p>﻿</p>
+<h1 id="incline">incline</h1>
+<p><code>adj.</code>
+inclined 趋向于…的</p>
+<p>inclining 倾斜的</p>
+<p><code>n.</code>
+inclination 倾向，爱好；斜坡</p>
+<p>inclining 倾向；爱好</p>
+<p>inclinometer 倾角罗盘；倾斜计；倾角计</p>
+<p><code>v.</code>
+inclined 使…倾向（incline的过去分词）</p>
+<p>inclining 倾斜；倾向（incline的ing形式）；点头弯腰</p>
+<p>﻿</p>
+<h1 id="indicate">indicate</h1>
+<p><code>adj.</code>
+indicative 象征的；指示的；表示…的</p>
+<p>indicant 指示的；表示的</p>
+<p>indicatory 表示的；指示的</p>
+<p><code>n.</code>
+indicator 指示器；[试剂] 指示剂；[计] 指示符；压力计</p>
+<p>indication 指示，指出；迹象；象征</p>
+<p>indicative 陈述语气；陈述语气的动词形式</p>
+<p>indicant 指示物</p>
+<p>﻿</p>
+<h1 id="indign">indign</h1>
+<p><code>adj.</code>
+indign 不值得的；可耻的</p>
+<p><code>adv.</code>
+indignantly 愤怒地；愤慨地</p>
+<p><code>n.</code>
+indignation 愤慨；愤怒；义愤</p>
+<p>﻿</p>
+<h1 id="indulge">indulge</h1>
+<p><code>adv.</code>
+indulgently 溺爱地；放任地</p>
+<p><code>n.</code>
+indulgence 嗜好；放纵；纵容；沉溺</p>
+<p>indulging 沉迷其中</p>
+<p><code>v.</code>
+indulging 沉迷（indulge的现在分词）</p>
+<p>﻿</p>
+<h1 id="inept">inept</h1>
+<p><code>adv.</code>
+ineptly 不适当地；无能地</p>
+<p><code>n.</code>
+ineptitude 不适当，不合适；不称职；愚笨</p>
+<p>ineptness 拙劣；荒谬</p>
+<p>﻿</p>
+<h1 id="inequity">inequity</h1>
+<p><code>adj.</code>
+inequitable 不公平的；不公正的</p>
+<p>﻿</p>
+<h1 id="inferior">inferior</h1>
+<p><code>n.</code>
+inferiority 自卑；下属；次等；下部</p>
+<p>﻿</p>
+<h1 id="inflict">inflict</h1>
+<p><code>adj.</code>
+inflictable 可处罚的</p>
+<p>inflictive 加以打击的；使人难过的</p>
+<p><code>n.</code>
+infliction 施加；处罚，刑罚</p>
+<p>inflicter 加害者；惩罚者</p>
+<p>﻿</p>
+<h1 id="influent">influent</h1>
+<p><code>adj.</code>
+influential 有影响的；有势力的</p>
+<p>influent 流入的</p>
+<p><code>adv.</code>
+influentially 有影响地；有力地</p>
+<p><code>n.</code>
+influent 支流</p>
+<p>﻿</p>
+<h1 id="infringe">infringe</h1>
+<p><code>n.</code>
+infringement 侵犯；违反</p>
+<p>﻿</p>
+<h1 id="ingenious">ingenious</h1>
+<p><code>adv.</code>
+ingeniously 贤明地；有才能地</p>
+<p><code>n.</code>
+ingenuity 心灵手巧，独创性；精巧；精巧的装置</p>
+<p>ingeniousness 机敏（精巧；精致；有创造才能）</p>
+<p>﻿</p>
+<h1 id="inhabit">inhabit</h1>
+<p><code>adj.</code>
+inhabited 有人居住的</p>
+<p>inhabitable 适于居住的；可居住的，可栖居的</p>
+<p><code>n.</code>
+inhabitant 居民；居住者</p>
+<p>inhabitancy 居住，住所；有人居住的状态</p>
+<p>inhabitation 居住；栖息</p>
+<p><code>v.</code>
+inhabited 占据（inhabit的过去分词）；居住于</p>
+<p>﻿</p>
+<h1 id="initiate">initiate</h1>
+<p><code>n.</code>
+initiation 启蒙，传授；开始；入会</p>
+<p>initiator 发起人，创始者；教导者；[计] 启动程序；引爆器</p>
+<p>﻿</p>
+<h1 id="innovate">innovate</h1>
+<p><code>adj.</code>
+innovative 革新的，创新的</p>
+<p>innovational 革新的；富有革新精神的</p>
+<p><code>n.</code>
+innovation 创新，革新；新方法</p>
+<p>innovator 改革者，创新者</p>
+<p>innovativeness 创新性，创新精神</p>
+<p>﻿</p>
+<h1 id="insight">insight</h1>
+<p><code>adj.</code>
+insightful 有深刻见解的，富有洞察力的</p>
+<p>﻿</p>
+<h1 id="instinct">instinct</h1>
+<p><code>adj.</code>
+instinctive 本能的；直觉的；天生的</p>
+<p><code>adv.</code>
+instinctively 本能地</p>
+<p>﻿</p>
+<h1 id="intense">intense</h1>
+<p><code>adj.</code>
+intensive 加强的；集中的；透彻的；加强语气的</p>
+<p>intensional 内涵的；紧张的</p>
+<p><code>adv.</code>
+intensely 强烈地；紧张地；热情地</p>
+<p><code>n.</code>
+intensity 强度；强烈；[电子] 亮度；紧张</p>
+<p>intensive 加强器</p>
+<p>intension 强度，烈度；加强，加剧；紧张</p>
+<p><code>vi.</code>
+intensify 增强，强化；变激烈</p>
+<p><code>vt.</code>
+intensify 使加强，使强化；使变激烈</p>
+<p>﻿</p>
+<h1 id="intent">intent</h1>
+<p><code>adj.</code>
+intent 专心的；急切的；坚决的</p>
+<p>intentional 故意的；蓄意的；策划的</p>
+<p><code>adv.</code>
+intentionally 故意地，有意地</p>
+<p>intently 专心地；一心一意地；心无旁物地</p>
+<p><code>n.</code>
+intent 意图；目的；含义</p>
+<p>intentionality 意向性，意图性</p>
+<p>﻿</p>
+<h1 id="interfere">interfere</h1>
+<p><code>adj.</code>
+interfering 干涉的；多管闲事的</p>
+<p><code>n.</code>
+interference 干扰，冲突；干涉</p>
+<p>interferometer [光] 干涉仪；干涉计</p>
+<p><code>v.</code>
+interfering 妨碍（interfer的ing形式）</p>
+<p>﻿﻿﻿</p>
+<h1 id="intervene">intervene</h1>
+<p><code>adj.</code>
+intervening 介于中间的</p>
+<p><code>n.</code>
+intervention 介入；调停；妨碍</p>
+<p>intervenor 介入者；干涉者</p>
+<p><code>v.</code>
+intervening 介入（intervene的ing形式）</p>
+<p>﻿</p>
+<h1 id="intimate">intimate</h1>
+<p><code>adv.</code>
+intimately 熟悉地；亲切地；私下地</p>
+<p><code>n.</code>
+intimacy 性行为；亲密；亲昵行为；隐私</p>
+<p>intimation 暗示；告知；讽示</p>
+<p>﻿</p>
+<h1 id="intimidate">intimidate</h1>
+<p><code>adj.</code>
+intimidating 吓人的</p>
+<p>intimidated 害怕的；受到恐吓的</p>
+<p><code>n.</code>
+intimidation 恐吓，威胁</p>
+<p><code>v.</code>
+intimidated 威胁，恐吓（intimidate的过去式）</p>
+<p>﻿</p>
+<h1 id="intricate">intricate</h1>
+<p><code>adv.</code>
+intricately 杂乱地</p>
+<p><code>n.</code>
+intricacy 错综，复杂；难以理解</p>
+<p>﻿</p>
+<h1 id="intrude">intrude</h1>
+<p><code>adj.</code>
+intrusive 侵入的；打扰的</p>
+<p><code>n.</code>
+intrusion 侵入；闯入</p>
+<p>intruder 侵入者；干扰者；妨碍者</p>
+<p>intrusiveness 干涉性；侵扰性；侵入性</p>
+<p>﻿</p>
+<h1 id="intuit">intuit</h1>
+<p><code>adj.</code>
+intuitive 直觉的；凭直觉获知的</p>
+<p>intuitionist 直觉主义的</p>
+<p><code>adv.</code>
+intuitively 直观地；直觉地</p>
+<p><code>n.</code>
+intuitionism 直观论；直觉说</p>
+<p>intuitionist 直觉论者</p>
+<p><code>vi.</code>
+intuit 凭直觉知道</p>
+<p><code>vt.</code>
+intuit 由直觉知道</p>
+<p>﻿</p>
+<h1 id="investigate">investigate</h1>
+<p><code>adj.</code>
+investigative 研究的；调查的；好调查的</p>
+<p>investigatory 调查的，审查的；研究的，好研究的</p>
+<p><code>n.</code>
+investigation 调查；调查研究</p>
+<p>investigator 研究者；调查者；侦查员</p>
+<p>﻿</p>
+<h1 id="involve">involve</h1>
+<p><code>adj.</code>
+involved 有关的；卷入的；复杂的</p>
+<p><code>n.</code>
+involvement 牵连；包含；混乱；财政困难</p>
+<p><code>v.</code>
+involved 涉及；使参与；包含（involve的过去式和过去分词）</p>
+<p>﻿</p>
+<h1 id="irony">irony</h1>
+<p><code>adj.</code>
+irony 铁的；似铁的</p>
+<p>ironical 讽刺的（等于ironic）；用反语的</p>
+<p><code>adv.</code>
+ironically 讽刺地；说反话地</p>
+<p><code>n.</code>
+irony 讽刺；反语；具有讽刺意味的事</p>
+<p>ironist 讽刺家；讽刺作家</p>
+<p>﻿</p>
+<h1 id="irritate">irritate</h1>
+<p><code>adj.</code>
+irritating 刺激的；气人的；使愤怒的</p>
+<p>irritated 恼怒的，生气的</p>
+<p>irritant 刺激的；刺激性的</p>
+<p>irritative 刺激的；刺激性的；使发怒的</p>
+<p><code>n.</code>
+irritation 刺激；刺激物；激怒；兴奋</p>
+<p>irritant [医] 刺激物，[医] 刺激剂</p>
+<p>irritability 过敏性；易怒；兴奋性</p>
+<p><code>v.</code>
+irritating 刺激（irritate的ing形式）；激怒</p>
+<p>irritated 激怒；使…无效；使…兴奋（irritate的过去分词）</p>
+<p>﻿</p>
+<h1 id="isolate">isolate</h1>
+<p><code>adj.</code>
+isolated 孤立的；分离的；单独的；[电] 绝缘的</p>
+<p>isolating 孤立的；绝缘的</p>
+<p>isolationist 孤立主义的；孤立主义者的</p>
+<p>isolable 可孤立的；可隔离的</p>
+<p><code>n.</code>
+isolation 隔离；孤立；[电] 绝缘；[化学] 离析</p>
+<p>isolationism 孤立主义</p>
+<p>isolationist 孤立主义者</p>
+<p><code>v.</code>
+isolated 使孤立；使绝缘；脱离（isolate的过去分词）</p>
+<p>isolating 使隔离；使绝缘（isolate的ing形式）</p>
+<p>﻿</p>
+<h1 id="lament">lament</h1>
+<p><code>adj.</code>
+lamentable 可悲的；可怜的；哀伤的</p>
+<p>lamented 令人遗憾的；被哀悼的</p>
+<p>lamenting 悲伤的；悲哀的</p>
+<p><code>adv.</code>
+lamentably 哀伤地；不幸地；拙劣地</p>
+<p><code>n.</code>
+lamentation 悲叹，哀悼；恸哭</p>
+<p><code>v.</code>
+lamented 哀悼（lament的过去式和过去分词形式）</p>
+<p>lamenting 悲痛；哀悼；惋惜（lament的ing形式）</p>
+<p>﻿</p>
+<h1 id="legitimate">legitimate</h1>
+<p><code>adj.</code>
+legitimatize 合法的；正当的</p>
+<p><code>adv.</code>
+legitimately 合理地；正当地</p>
+<p><code>n.</code>
+legitimacy 合法；合理；正统</p>
+<p>legitimation 合法化；承认为嫡出</p>
+<p><code>vt.</code>
+legitimize 使…合法；立为嫡嗣</p>
+<p>legitimise 使合法化（等于legitimize）</p>
+<p>legitimatize 使合法化（等于legitimize）</p>
+<p>﻿</p>
+<h1 id="magnanimous">magnanimous</h1>
+<p><code>adv.</code>
+magnanimously 大度宽宏地，度量大地；高尚地</p>
+<p><code>n.</code>
+magnanimity 宽宏大量；慷慨</p>
+<p>﻿</p>
+<h1 id="mediate">mediate</h1>
+<p><code>adj.</code>
+mediatorial 调解的；仲裁的</p>
+<p>mediatory 调解的；斡旋的</p>
+<p><code>adv.</code>
+medially 平均地，居中地；一般地</p>
+<p><code>n.</code>
+mediation 调解；仲裁；调停</p>
+<p>mediator 调停者；传递者；中介物</p>
+<p>mediacy 调解；中间状态；媒介</p>
+<p>﻿﻿</p>
+<h1 id="nourish">nourish</h1>
+<p><code>adj.</code>
+nourishing 有营养的；滋养多的</p>
+<p><code>n.</code>
+nourishment 食物；营养品；滋养品</p>
+<p><code>v.</code>
+nourishing 滋养；养育（nourish的ing形式）</p>
+<p>﻿</p>
+<h1 id="miserable">miserable</h1>
+<p><code>adv.</code>
+miserably 贫困地；可悲地；糟糕地；非常不幸地</p>
+<p><code>n.</code>
+miserableness 糟糕）；可怜（简陋</p>
+<p>﻿</p>
+<h1 id="misinterpret">misinterpret</h1>
+<p><code>n.</code>
+misinterpretation 误解；误释</p>
+<p>﻿</p>
+<h1 id="mislead">mislead</h1>
+<p><code>adj.</code>
+misleading 令人误解的；引入歧途的</p>
+<p><code>adv.</code>
+misleadingly 误导地</p>
+<p><code>n.</code>
+misleader 错误引导者；错误领导人</p>
+<p><code>v.</code>
+misleading 给…带错路；把…引入歧途（mislead的ing形式）</p>
+<p>﻿</p>
+<h1 id="monotone">monotone</h1>
+<p><code>adj.</code>
+monotonic 单调的；无变化的；产生单音调的</p>
+<p>monotone 单调的</p>
+<p><code>adv.</code>
+monotonously 无变化地，单调地</p>
+<p><code>n.</code>
+monotony 单调；千篇一律</p>
+<p>monotone 单调；单音调</p>
+<p><code>vt.</code>
+monotone 单调地读</p>
+<p>﻿</p>
+<h1 id="proliferate">proliferate</h1>
+<p><code>n.</code>
+proliferation 增殖，扩散；分芽繁殖</p>
+<p>﻿</p>
+<h1 id="motif">motif</h1>
+<p><code>adj.</code>
+motor 汽车的；机动的</p>
+<p>motive 发动的；成为动机的</p>
+<p>motivated 有动机的；有积极性的</p>
+<p>motionless 静止的；不运动的</p>
+<p>motivational 动机的；激发性的；有关动机的；动机说明</p>
+<p>motional 运动的；起动的</p>
+<p>motiveless 无动机的</p>
+<p><code>n.</code>
+motion 动作；移动；手势；请求；意向</p>
+<p>motivation 动机；积极性；推动</p>
+<p>motor 发动机，马达；汽车</p>
+<p>motive 动机，目的；主题</p>
+<p>motif 主题；动机；主旨；图形；意念</p>
+<p>motivator 动力；激励因素</p>
+<p>motivity 动力；原动力</p>
+<p><code>v.</code>
+motivated 使产生动机；激发…的积极性（motivate的过去式和过去分词）</p>
+<p><code>vi.</code>
+motion 运动；打手势</p>
+<p>motor 乘汽车</p>
+<p><code>vt.</code>
+motion 运动；向…打手势</p>
+<p>motor 以汽车载运</p>
+<p>motive 使产生动机，激起</p>
+<p>﻿</p>
+<h1 id="mourn">mourn</h1>
+<p><code>adj.</code>
+mournful 悲哀的；令人惋惜的</p>
+<p><code>adv.</code>
+mournfully 悲哀地；凄惨地</p>
+<p><code>n.</code>
+mourning 哀痛；服丧</p>
+<p>mourner 哀悼者；悲伤者；送葬者；忏悔者</p>
+<p><code>v.</code>
+mourning 哀伤；为…哀悼（mourn的ing形式）</p>
+<p>﻿</p>
+<h1 id="munificent">munificent</h1>
+<p><code>n.</code>
+munificence 慷慨给与；宽宏大量</p>
+<p>﻿</p>
+<h1 id="neglect">neglect</h1>
+<p><code>adj.</code>
+neglected 被忽视的；未被好好照管的</p>
+<p>neglectful 疏忽的；忽略的；不小心的</p>
+<p><code>adv.</code>
+negligently 疏忽地；粗心大意地</p>
+<p><code>n.</code>
+neglect 疏忽，忽视；怠慢</p>
+<p>negligence 疏忽；忽视；粗心大意</p>
+<p><code>v.</code>
+neglected 忽视；疏忽（neglect的过去分词）</p>
+<p><code>vt.</code>
+neglect 疏忽，忽视；忽略</p>
+<p>﻿</p>
+<h1 id="neutral">neutral</h1>
+<p><code>adj.</code>
+neuter 中性的；不及物的；无性的</p>
+<p>neutralized 中立化的</p>
+<p><code>n.</code>
+neutrality 中立；中性；中立立场</p>
+<p>neuter 无性动物；中性名词；阉割动物</p>
+<p>neutralization [化学] 中和；[化学] 中和作用；中立状态</p>
+<p>neutralisation 中和；中立状态</p>
+<p>neutralism 中立；中立主义</p>
+<p>neutralist 中立主义者</p>
+<p><code>v.</code>
+neutralized 中立化（neutralize的过去式和过去分词）</p>
+<p><code>vi.</code>
+neutralize 中和；中立化；变无效</p>
+<p>neutralise 中和</p>
+<p><code>vt.</code>
+neutralize 抵销；使…中和；使…无效；使…中立</p>
+<p>neutralise 中和；使中立；使无效</p>
+<p>﻿</p>
+<h1 id="noble">noble</h1>
+<p><code>adv.</code>
+nobly 崇高地；高贵地；华丽地；豪爽地</p>
+<p><code>n.</code>
+nobility 贵族；高贵；高尚</p>
+<p>nobleness 高贵；高尚；高洁</p>
+<p>﻿</p>
+<h1 id="nostalgic">nostalgic</h1>
+<p><code>adj.</code>
+nostalgic 怀旧的；乡愁的</p>
+<p><code>adv.</code>
+nostalgically 怀乡地；恋旧地</p>
+<p>﻿</p>
+<h1 id="obscure">obscure</h1>
+<p><code>adv.</code>
+obscurely 费解地，晦涩地；隐匿地</p>
+<p><code>n.</code>
+obscurity 朦胧；阴暗；晦涩；身份低微；不分明</p>
+<p>obscureness 难解；模糊</p>
+<p>﻿</p>
+<h1 id="observe">observe</h1>
+<p><code>adj.</code>
+observed 观察的；观测的</p>
+<p>observant 善于观察的；机警的；严格遵守的</p>
+<p>observable 显著的；觉察得到的；看得见的</p>
+<p>observing 观察的；注意的；观察力敏锐的</p>
+<p>observational 观测的；根据观察的</p>
+<p><code>adv.</code>
+observingly 注意观察地</p>
+<p><code>n.</code>
+observation 观察；监视；观察报告</p>
+<p>observer 观察者；[天] 观测者；遵守者</p>
+<p>observance 惯例；遵守；仪式；庆祝</p>
+<p>observable [物] 可观察量；感觉到的事物</p>
+<p><code>v.</code>
+observed 观察；遵守；注意到（observe的过去分词形式）</p>
+<p>observing 观察；遵守（observe的ing形式）</p>
+<p>﻿</p>
+<h1 id="obsess">obsess</h1>
+<p><code>adj.</code>
+obsessive 强迫性的；着迷的；分神的</p>
+<p><code>adv.</code>
+obsessively 过分地；着迷地，着魔似地</p>
+<p><code>n.</code>
+obsession 痴迷；困扰；[内科][心理] 强迫观念</p>
+<p>﻿</p>
+<h1 id="obstinate">obstinate</h1>
+<p><code>adv.</code>
+obstinately 顽固地；固执地</p>
+<p><code>n.</code>
+obstinacy 固执，顽固；（病痛等的）难治，难解除</p>
+<p>﻿</p>
+<h1 id="oppose">oppose</h1>
+<p><code>adj.</code>
+opposite 相反的；对面的；对立的</p>
+<p>opposed 相反的；敌对的</p>
+<p>opposing 反对的；相对的；对面的</p>
+<p>opposable 可反对的；可相对的</p>
+<p>oppositive 反对的；相反的</p>
+<p><code>adv.</code>
+opposite 在对面</p>
+<p>oppositely 反向地；在相反的位置；面对面</p>
+<p><code>n.</code>
+opposite 对立面；反义词</p>
+<p>opposition 反对；反对派；在野党；敌对</p>
+<p>opposer 反对者</p>
+<p><code>prep.</code>
+opposite 在…的对面</p>
+<p><code>v.</code>
+opposed 反对（oppose的过去分词）；使对立</p>
+<p>opposing 反对（oppose的ing形式）</p>
+<p>﻿</p>
+<h1 id="oppress">oppress</h1>
+<p><code>adj.</code>
+oppressive 压迫的；沉重的；压制性的；难以忍受的</p>
+<p><code>adv.</code>
+oppressively 压迫地；沉重地</p>
+<p><code>n.</code>
+oppression 压抑；镇压；压迫手段；沉闷；苦恼</p>
+<p>oppressor 压制者，压迫者</p>
+<p>﻿</p>
+<h1 id="origin">origin</h1>
+<p><code>adj.</code>
+original 原始的；最初的；独创的；新颖的</p>
+<p>originative 有创作力的；有发明之才能的</p>
+<p><code>adv.</code>
+originally 最初，起初；本来</p>
+<p><code>n.</code>
+original 原件；原作；原物；原型</p>
+<p>origin 起源；原点；出身；开端</p>
+<p>originality 创意；独创性，创造力；原始；新奇</p>
+<p>originator 发起人；起源；起因</p>
+<p>origination 起源；开始；起始</p>
+<p>﻿</p>
+<h1 id="part">part</h1>
+<p><code>adj.</code>
+part 部分的</p>
+<p>partitioned 分割的；分区的；分段的</p>
+<p>partitive 区分的；表示部分的</p>
+<p><code>adv.</code>
+part 部分地</p>
+<p>partially 部分地；偏袒地</p>
+<p>partly 部分地；在一定程度上</p>
+<p><code>n.</code>
+part 部分；角色；零件</p>
+<p>partiality 偏心；偏袒；偏爱；癖好</p>
+<p>partialness 偏爱的，不公平的；部分</p>
+<p>partitive 表示部分的词</p>
+<p><code>vi.</code>
+part 断裂；分手</p>
+<p><code>vt.</code>
+part 分离；分配；分开</p>
+<p>partitioned 划分（partition的过去分词）；分割；把…分成部分</p>
+<p>﻿</p>
+<h1 id="patron">patron</h1>
+<p><code>n.</code>
+patronage 赞助；光顾；任免权</p>
+<p>patroness 女主顾；女资助人；女保护人</p>
+<p><code>vt.</code>
+patronize 惠顾；资助；保护</p>
+<p>patronise （英）保护（等于patronize）</p>
+<p>﻿</p>
+<h1 id="peculiar">peculiar</h1>
+<p><code>adv.</code>
+peculiarly 特别；尤其；古怪地；奇怪地</p>
+<p><code>n.</code>
+peculiarity 特性；特质；怪癖；奇特</p>
+<p>﻿</p>
+<h1 id="penal">penal</h1>
+<p><code>adj.</code>
+penal 刑事的；刑罚的</p>
+<p><code>adv.</code>
+penally 用刑罚；刑事上</p>
+<p><code>n.</code>
+penalty 罚款，罚金；处罚</p>
+<p>penalization 惩罚；处罚</p>
+<p><code>vt.</code>
+penalise 惩罚，处罚；使…处于严重不利地位</p>
+<p>﻿</p>
+<h1 id="percept">percept</h1>
+<p><code>adj.</code>
+perceived 感知到的；感观的</p>
+<p>perceptive 感知的，知觉的；有知觉力的</p>
+<p>perceptible 可察觉的；可感知的；看得见的</p>
+<p>perceivable 可知觉的，可感知的</p>
+<p><code>adv.</code>
+perceptibly 显然地；可感觉得出地；看得出地</p>
+<p><code>n.</code>
+perception 知觉；[生理] 感觉；看法；洞察力；获取</p>
+<p>percept 认知，认知的对象</p>
+<p>perceptibility 感觉力；理解力；可察觉性</p>
+<p><code>v.</code>
+perceived 感知；认为（perceive的过去分词）；领会</p>
+<p>﻿</p>
+<h1 id="perpetuate">perpetuate</h1>
+<p><code>n.</code>
+perpetuation 不朽，永存</p>
+<p>﻿</p>
+<h1 id="perplex">perplex</h1>
+<p><code>adj.</code>
+perplexing 复杂的，令人费解的；令人困惑的</p>
+<p>perplexed 困惑的；不知所措的</p>
+<p><code>adv.</code>
+perplexedly 为难地；困窘地</p>
+<p><code>n.</code>
+perplexity 困惑；混乱</p>
+<p>﻿</p>
+<h1 id="persevere">persevere</h1>
+<p><code>adj.</code>
+persistent 固执的，坚持的；持久稳固的</p>
+<p>persevering 坚忍的；不屈不挠的</p>
+<p><code>adv.</code>
+persistently 坚持地；固执地</p>
+<p>perseveringly 坚定地</p>
+<p><code>n.</code>
+perseverance 坚持不懈；不屈不挠</p>
+<p>persistence 持续；固执；存留</p>
+<p>perseveration 持续言语（指言语反复不止的病态）；持续重复的行为；执拗</p>
+<p><code>vi.</code>
+perseverate 患持续言语症；表现固执</p>
+<p>﻿</p>
+<h1 id="pertinent">pertinent</h1>
+<p><code>adv.</code>
+pertinently 适切地</p>
+<p><code>n.</code>
+pertinence 针对性；有关性，相关性</p>
+<p>pertinency 相关性，有关性；适切，妥当</p>
+<p>﻿</p>
+<h1 id="plausive">plausive</h1>
+<p><code>adj.</code>
+plausive 喝采的；似乎真实可信的（等于plausible）</p>
+<p><code>adv.</code>
+plausibly 似真地</p>
+<p><code>n.</code>
+plausibility 善辩；似乎有理；貌似可信</p>
+<p>﻿</p>
+<h1 id="poignant">poignant</h1>
+<p><code>adv.</code>
+poignantly 深刻地；辛辣地；令人辛酸地</p>
+<p><code>n.</code>
+poignancy 辛辣；强烈；尖锐；辛酸事</p>
+<p>﻿</p>
+<h1 id="possess">possess</h1>
+<p><code>adj.</code>
+possessive 占有的；所有的；所有格的；占有欲强的</p>
+<p><code>n.</code>
+possession 拥有；财产；领地；自制；着迷</p>
+<p>possessive 所有格</p>
+<p>possessor 持有人；所有人</p>
+<p>possessiveness 占有；自制力</p>
+<p>﻿</p>
+<h1 id="preserve">preserve</h1>
+<p><code>adj.</code>
+preservative 防腐的；有保存力的；有保护性的</p>
+<p>preservable 可保存的；可保管的；能储藏的</p>
+<p><code>n.</code>
+preservation 保存，保留</p>
+<p>preservative 防腐剂；预防法；防护层</p>
+<p>preserving 保留，保存</p>
+<p>preserver 保护者，保护人；保护剂，防腐剂；储藏柜</p>
+<p>﻿</p>
+<h1 id="presume">presume</h1>
+<p><code>adv.</code>
+presumably 大概；推测起来；可假定</p>
+<p><code>n.</code>
+presumption 放肆，傲慢；推测</p>
+<p><code>vi.</code>
+presume 相信；擅自行为</p>
+<p><code>vt.</code>
+presume 假定；推测；擅自；意味着</p>
+<p>﻿</p>
+<h1 id="pretend">pretend</h1>
+<p><code>adj.</code>
+pretended 假装的；虚假的</p>
+<p><code>n.</code>
+pretense 借口；虚假；炫耀；自吹（等于pretence）</p>
+<p>pretence 假装；借口；虚伪</p>
+<p>pretender 冒牌者；妄求者；妄提要求者</p>
+<p><code>v.</code>
+pretended 假装（pretend的过去式和过去分词）；装扮</p>
+<p>﻿</p>
+<h1 id="prevail">prevail</h1>
+<p><code>adj.</code>
+prevailing 流行的；一般的，最普通的；占优势的；盛行很广的</p>
+<p><code>v.</code>
+prevailing 盛行，流行（prevail的现在分词形式）；获胜</p>
+<p>﻿</p>
+<h1 id="prominent">prominent</h1>
+<p><code>adv.</code>
+prominently 显著地</p>
+<p><code>n.</code>
+prominence 突出；显著；突出物；卓越</p>
+<p>﻿</p>
+<h1 id="propose">propose</h1>
+<p><code>adj.</code>
+proposed 被提议的；所推荐的</p>
+<p><code>n.</code>
+proposal 提议，建议；求婚</p>
+<p>proposition [数] 命题；提议；主题；议题</p>
+<p>proponent 支持者；建议者；提出认证遗嘱者</p>
+<p>proposer 要保人；申请人；提案人</p>
+<p><code>v.</code>
+proposed 提议；计划（propose的过去式和过去分词）</p>
+<p><code>vt.</code>
+proposition 向…提议；向…求欢</p>
+<p>﻿</p>
+<h1 id="prospect">prospect</h1>
+<p><code>adj.</code>
+prospective 未来的；预期的</p>
+<p><code>n.</code>
+prospective 预期；展望</p>
+<p>prospector 探勘者；采矿者</p>
+<p>prospectiveness 远景</p>
+<p>﻿</p>
+<h1 id="prosper">prosper</h1>
+<p><code>adj.</code>
+prosperous 繁荣的；兴旺的</p>
+<p><code>adv.</code>
+prosperously 繁荣地；幸运地</p>
+<p><code>n.</code>
+prosperity 繁荣，成功</p>
+<p>﻿</p>
+<h1 id="provoke">provoke</h1>
+<p><code>adj.</code>
+provoking 刺激的；令人生气的，激怒人的</p>
+<p>provoked 被激怒的；受到挑衅的</p>
+<p><code>n.</code>
+provocation 挑衅；激怒；挑拨</p>
+<p><code>v.</code>
+provoking 激怒；挑拨；诱发（provoke的ing形式）</p>
+<p>provoked 激起；挑衅（provoke的过去分词）</p>
+<p>﻿</p>
+<h1 id="prudent">prudent</h1>
+<p><code>adj.</code>
+prudential 谨慎的；明辨的</p>
+<p><code>adv.</code>
+prudently 谨慎地；慎重地</p>
+<p><code>n.</code>
+prudence 审慎</p>
+<p>﻿</p>
+<h1 id="rebel">rebel</h1>
+<p><code>adj.</code>
+rebellious 反抗的；造反的；难控制的</p>
+<p><code>adv.</code>
+rebelliously 难以控制地；造反地</p>
+<p><code>n.</code>
+rebellion 叛乱；反抗；谋反；不服从</p>
+<p>rebelliousness 造反；判逆性；难以控制</p>
+<p>﻿﻿</p>
+<h1 id="reconcile">reconcile</h1>
+<p><code>adj.</code>
+reconcilable 不矛盾的；可和解的；可调和的</p>
+<p><code>n.</code>
+reconciliation 和解；调和；和谐；甘愿</p>
+<p>﻿</p>
+<h1 id="recur">recur</h1>
+<p><code>adj.</code>
+recurring 循环的；再发的</p>
+<p>recursive [数] 递归的；循环的</p>
+<p>recurrent 复发的；周期性的，经常发生的</p>
+<p><code>adv.</code>
+recurrently 循环地（周而复始地）</p>
+<p><code>n.</code>
+recurrence 再发生；循环；重现；重新提起</p>
+<p>recursion [数] 递归，循环；递归式</p>
+<p><code>v.</code>
+recurring 返回（recur的现在分词）</p>
+<p>﻿﻿</p>
+<h1 id="refine">refine</h1>
+<p><code>adj.</code>
+refined [油气][化工][冶] 精炼的；精确的；微妙的；有教养的</p>
+<p><code>n.</code>
+refinement 精制；文雅；[化工][油气][冶] 提纯</p>
+<p>refinery 精炼厂；提炼厂；冶炼厂</p>
+<p>refining 精炼；改善</p>
+<p>refiner 精炼机；精制者，精炼者</p>
+<p><code>v.</code>
+refining 精炼（refine的ing形式）</p>
+<p>﻿</p>
+<h1 id="refute">refute</h1>
+<p><code>adj.</code>
+refutable 可驳倒的；容易驳倒的</p>
+<p><code>n.</code>
+refutation 反驳；驳斥；辩驳</p>
+<p>refutal 驳斥；反驳</p>
+<p>﻿</p>
+<h1 id="rehabilitate">rehabilitate</h1>
+<p><code>adj.</code>
+rehabilitative 复职的，复原的</p>
+<p><code>n.</code>
+rehabilitation 复原</p>
+<p>﻿</p>
+<h1 id="reinforce">reinforce</h1>
+<p><code>adj.</code>
+reinforced 加固的；加强的；加筋的</p>
+<p><code>n.</code>
+reinforcement 加固；增援；援军；加强</p>
+<p>reinforcer 增强剂；加强件；增强材料；强化刺激</p>
+<p><code>v.</code>
+reinforced 加强；增援（reinforce的过去分词）</p>
+<p>﻿</p>
+<h1 id="relevant">relevant</h1>
+<p><code>adv.</code>
+relevantly 贴切地；得要领地</p>
+<p>﻿</p>
+<h1 id="relief">relief</h1>
+<p><code>adv.</code>
+relievedly 宽慰地</p>
+<p><code>n.</code>
+relief 救济；减轻，解除；安慰</p>
+<p><code>vt.</code>
+relieve 解除，减轻；使不单调乏味；换…的班；解围；使放心</p>
+<p>﻿</p>
+<h1 id="reluctant">reluctant</h1>
+<p><code>adv.</code>
+reluctantly 不情愿地；嫌恶地</p>
+<p><code>n.</code>
+reluctance [电磁] 磁阻；勉强；不情愿</p>
+<p>﻿</p>
+<h1 id="remedy">remedy</h1>
+<p><code>adj.</code>
+remedial 治疗的；补救的；矫正的</p>
+<p>remediable 可治疗的；可矫正的；可补救的</p>
+<p><code>n.</code>
+remediation 补救；矫正；补习</p>
+<p>﻿</p>
+<h1 id="reminisce">reminisce</h1>
+<p><code>adj.</code>
+reminiscent 怀旧的，回忆往事的；耽于回想的</p>
+<p><code>adv.</code>
+reminiscently 怀旧地；回忆地</p>
+<p><code>n.</code>
+reminiscent 回忆录作者；回忆者</p>
+<p>reminiscence 回忆；怀旧；引起联想的相似事物</p>
+<p>﻿</p>
+<h1 id="remorse">remorse</h1>
+<p><code>adj.</code>
+remorseful 懊悔的；悔恨的</p>
+<p>remorseless 冷酷的；不知过错的；坚持不懈的；不屈不挠的</p>
+<p><code>adv.</code>
+remorselessly 无悔意地；冷酷地</p>
+<p>remorsefully 极为懊悔地</p>
+<p>﻿</p>
+<h1 id="renew">renew</h1>
+<p><code>adj.</code>
+renewable 可再生的；可更新的；可继续的</p>
+<p>renewed 更新的；复兴的；重建的</p>
+<p><code>n.</code>
+renewal 更新，恢复；复兴；补充；革新；续借；重申</p>
+<p>renewable 再生性能源</p>
+<p><code>v.</code>
+renewed 更新；恢复（renew的过去分词）</p>
+<p>﻿</p>
+<h1 id="resemble">resemble</h1>
+<p><code>n.</code>
+resemblance 相似；相似之处；相似物；肖像</p>
+<p>﻿</p>
+<h1 id="resent">resent</h1>
+<p><code>adj.</code>
+resentful 充满忿恨的；厌恶的</p>
+<p><code>adv.</code>
+resentfully 充满愤恨地</p>
+<p><code>n.</code>
+resentment 愤恨，怨恨</p>
+<p>﻿</p>
+<h1 id="resolve">resolve</h1>
+<p><code>adj.</code>
+resolved 下定决心的；已解决的；断然的</p>
+<p>resolvable 可分解的；可解决的；可溶解的</p>
+<p>resolvent 分解的；有溶解力的；消散的</p>
+<p><code>adv.</code>
+resolutely 坚决地；毅然地</p>
+<p><code>n.</code>
+resolution [物] 分辨率；决议；解决；决心</p>
+<p>resolving 分解；解析</p>
+<p>resolvent 溶剂；分解物；消肿药</p>
+<p><code>v.</code>
+resolved 解决；决定；分解；转变（resolve的过去分词）</p>
+<p>resolving 分辨（resolve的ing形式）；分解；决定；解决矛盾</p>
+<p>﻿</p>
+<h1 id="restore">restore</h1>
+<p><code>adj.</code>
+restorative 滋补的，有助于复元的；恢复健康的</p>
+<p><code>n.</code>
+restoration 恢复；复位；王政复辟；归还</p>
+<p>restorative [药] 恢复药，滋补剂</p>
+<p>restorer 修补者；[计] 复位器；[计] 恢复设备；修建者</p>
+<p>﻿</p>
+<h1 id="restrain">restrain</h1>
+<p><code>adj.</code>
+restrained 克制的，受限制的；拘谨的</p>
+<p><code>n.</code>
+restraint 抑制，克制；约束</p>
+<p>restrainer [摄] 抑制剂（尤指摄影中用的溴化钾等）；限制器；控制者</p>
+<p><code>v.</code>
+restrained 抑制；约束（restrain的过去分词）</p>
+<p>﻿</p>
+<h1 id="retaliate">retaliate</h1>
+<p><code>adj.</code>
+retaliatory 报复的</p>
+<p><code>n.</code>
+retaliation 报复；反击；回敬</p>
+<p>﻿</p>
+<h1 id="reverse">reverse</h1>
+<p><code>adj.</code>
+reversible 可逆的；可撤消的；可反转的</p>
+<p>reversed 颠倒的；相反的；（判决等）撤销的</p>
+<p>reversionary 倒退的；复归的；应继承的；将来应享有的</p>
+<p><code>adv.</code>
+reversely 相对地；反对地；反面地</p>
+<p>reversibly 可逆地</p>
+<p><code>n.</code>
+reversal 逆转；[摄] 反转；[法] 撤销</p>
+<p>reversible 双面布料</p>
+<p>reversion 逆转；回复；归还；[遗] 隔代遗传；[法] 继承权</p>
+<p>reversibility [数] 可逆性；可撤销；可反转性</p>
+<p><code>v.</code>
+reversed 颠倒（reverse的过去式和过去分词）；翻转</p>
+<p>﻿</p>
+<h1 id="revise">revise</h1>
+<p><code>adj.</code>
+revised 改进的</p>
+<p><code>n.</code>
+revision [印刷] 修正；复习；修订本</p>
+<p>revisionism 修正主义</p>
+<p>revisal 修正；修订</p>
+<p>reviser 校订者；修订者</p>
+<p><code>v.</code>
+revised 修改；校订；复习（revise的过去分词形式）</p>
+<p>﻿</p>
+<h1 id="revive">revive</h1>
+<p><code>adj.</code>
+revived 复活的，再生的</p>
+<p><code>n.</code>
+revival 复兴；复活；苏醒；恢复精神；再生效</p>
+<p>revivalism 信仰复兴运动；复兴倾向</p>
+<p>revivalist 领导宗教复兴运动的人；复旧者</p>
+<p>revivification 恢复，还原；复活</p>
+<p><code>v.</code>
+revived 使复活，使恢复（revive的过去式）</p>
+<p><code>vi.</code>
+revivify 复活，再生；振奋精神</p>
+<p><code>vt.</code>
+revivify 使再生，使复活；使振奋精神</p>
+<p>﻿</p>
+<h1 id="revoke">revoke</h1>
+<p><code>adj.</code>
+revokable 可取消的，可废止的；可撤回的</p>
+<p>﻿﻿</p>
+<h1 id="rigid">rigid</h1>
+<p><code>adj.</code>
+rigorous 严格的，严厉的；严密的；严酷的</p>
+<p><code>adv.</code>
+rigidly 严格地；坚硬地；严厉地；牢牢地</p>
+<p><code>n.</code>
+rigidity [物] 硬度，[力] 刚性；严格，刻板；僵化；坚硬</p>
+<p>rigor 严厉；精确；苛刻；僵硬</p>
+<p>rigidness 坚硬；严厉</p>
+<p><code>vi.</code>
+rigidify 僵化；固定</p>
+<p><code>vt.</code>
+rigidify 使…僵化；使…固定</p>
+<p>﻿</p>
+<h1 id="rigor">rigor</h1>
+<p><code>adj.</code>
+rigid 严格的；僵硬的，死板的；坚硬的；精确的</p>
+<p>rigorous 严格的，严厉的；严密的；严酷的</p>
+<p><code>adv.</code>
+rigorously 严厉地；残酷地</p>
+<p>rigidly 严格地；坚硬地；严厉地；牢牢地</p>
+<p><code>n.</code>
+rigour 严格；严厉；苛刻；精确</p>
+<p>rigidness 坚硬；严厉</p>
+<p>rigorousness 残酷，严厉</p>
+<p>﻿</p>
+<h1 id="scarce">scarce</h1>
+<p><code>adv.</code>
+scarcely 几乎不，简直不；简直没有</p>
+<p><code>n.</code>
+scarcity 不足；缺乏</p>
+<p>scarceness 稀少；缺乏</p>
+<p>﻿</p>
+<h1 id="scrutiny">scrutiny</h1>
+<p><code>n.</code>
+scrutinize 仔细或彻底检查</p>
+<p><code>vi.</code>
+scrutinize 细阅；作详细检查</p>
+<p>scrutinise 作仔细检查；细致观察</p>
+<p><code>vt.</code>
+scrutinize 详细检查；细看</p>
+<p>scrutinise 细看；仔细观察或检查；核对（等于scrutinize）</p>
+<p>﻿</p>
+<h1 id="seclude">seclude</h1>
+<p><code>adj.</code>
+secluded 隐蔽的；隐退的，隐居的</p>
+<p><code>n.</code>
+secrecy 保密；秘密；隐蔽</p>
+<p><code>v.</code>
+secluded 隔绝（seclude的过去式）</p>
+<p><code>vt.</code>
+seclude 使隔离，使隔绝</p>
+<p>﻿</p>
+<h1 id="severe">severe</h1>
+<p><code>adv.</code>
+severely 严重地；严格地，严厉地；纯朴地</p>
+<p><code>n.</code>
+severity 严重；严格；猛烈</p>
+<p>severeness 严重；艰难；紧凑；纯朴</p>
+<p>﻿</p>
+<h1 id="simulate">simulate</h1>
+<p><code>adj.</code>
+simulated 模拟的；模仿的；仿造的</p>
+<p><code>n.</code>
+simulation 仿真；模拟；模仿；假装</p>
+<p>simulator 模拟器；假装者，模拟者</p>
+<p><code>v.</code>
+simulated 模仿（simulate的变形）；假装</p>
+<p>﻿﻿</p>
+<h1 id="solitary">solitary</h1>
+<p><code>adv.</code>
+solitarily 寂寞地；独自一人地</p>
+<p><code>n.</code>
+solitude 孤独；隐居；荒僻的地方</p>
+<p>solitariness 隐居；单独</p>
+<p>﻿</p>
+<h1 id="speculate">speculate</h1>
+<p><code>adj.</code>
+speculative 投机的；推测的；思索性的</p>
+<p><code>n.</code>
+speculation 投机；推测；思索；投机买卖</p>
+<p>speculator 投机者；思索者</p>
+<p>speculativeness 思辩</p>
+<p>﻿</p>
+<h1 id="stereotype">stereotype</h1>
+<p><code>adj.</code>
+stereotyped 用铅版印刷的；老一套的</p>
+<p><code>v.</code>
+stereotyped 把…浇铸成铅版；使成为陈规（stereotype的过去分词）</p>
+<p><code>vt.</code>
+sterilize 消毒，杀菌；使成不毛；使绝育；使不起作用</p>
+<p>﻿</p>
+<h1 id="stimulus">stimulus</h1>
+<p><code>adj.</code>
+stimulating 刺激的；有刺激性的</p>
+<p>stimulated 受激的</p>
+<p>stimulant 激励的；使人兴奋的</p>
+<p>stimulative 促进的；刺激的；激励的</p>
+<p><code>n.</code>
+stimulus 刺激；激励；刺激物</p>
+<p>stimulation 刺激；激励，鼓舞</p>
+<p>stimulant [药] 兴奋剂；刺激物；酒精饮料</p>
+<p>stimulative 刺激；促进因素</p>
+<p><code>v.</code>
+stimulating 刺激；激励；促进（stimulate的ing形式）</p>
+<p>stimulated 刺激（stimulate的过去式和过去分词）</p>
+<p>﻿</p>
+<h1 id="strategy">strategy</h1>
+<p><code>adj.</code>
+strategic 战略上的，战略的</p>
+<p><code>adv.</code>
+strategically 战略性地；战略上</p>
+<p><code>n.</code>
+strategist 战略家；军事家</p>
+<p>stratagem 策略；计谋</p>
+<p>﻿</p>
+<h1 id="submit">submit</h1>
+<p><code>adj.</code>
+subordinate 从属的；次要的</p>
+<p>subordinating 连接主句和从句的；从属的</p>
+<p><code>n.</code>
+subordinate 下属，下级；部属，属下</p>
+<p>submission 投降；提交（物）；服从；（向法官提出的）意见；谦恭</p>
+<p>submissiveness 柔顺；服从</p>
+<p><code>v.</code>
+subordinating 使服从（subordinate的ing形式）；使成为下级</p>
+<p><code>vi.</code>
+submit 提交；服从</p>
+<p><code>vt.</code>
+submit 使服从；主张；呈递</p>
+<p>subordinate 使……居下位；使……服从</p>
+<p>﻿</p>
+<h1 id="subtle">subtle</h1>
+<p><code>adv.</code>
+subtly 精细地；巧妙地；敏锐地</p>
+<p><code>n.</code>
+subtlety 微妙；敏锐；精明</p>
+<p><code>vi.</code>
+subtilize 过分精细；微妙化</p>
+<p><code>vt.</code>
+subtilize 使稀薄；使精细</p>
+<p>﻿</p>
+<h1 id="supplement">supplement</h1>
+<p><code>adj.</code>
+supplementary 补充的；追加的</p>
+<p>supplemental 补充的（等于supplementary）；追加的</p>
+<p><code>n.</code>
+supplementary 补充者；增补物</p>
+<p>supplementation 补充；增补</p>
+<p>﻿</p>
+<h1 id="suppress">suppress</h1>
+<p><code>adj.</code>
+suppressed 抑制的，发育不全的</p>
+<p>suppressant 制止的；抑制性的；遏抑的</p>
+<p>suppressive 抑制的；镇压的</p>
+<p><code>n.</code>
+suppression 抑制；镇压；[植] 压抑</p>
+<p>suppressant 抑制药</p>
+<p>suppressor 抑制器；消除器</p>
+<p>suppresser 镇压者；抑制器</p>
+<p><code>v.</code>
+suppressed 镇压，禁止（suppress的过去时和过去分词）</p>
+<p>﻿</p>
+<h1 id="susceptible">susceptible</h1>
+<p><code>n.</code>
+susceptibility 敏感性；感情；磁化系数</p>
+<p>﻿</p>
+<h1 id="sympathy">sympathy</h1>
+<p><code>adj.</code>
+sympathetic 同情的；交感神经的；共鸣的；赞同的；和谐的；合意的</p>
+<p><code>adv.</code>
+sympathetically 悲怜地，怜悯地；富有同情心地</p>
+<p><code>n.</code>
+sympathy 同情；慰问；赞同</p>
+<p>sympathetic 交感神经；容易感受的人</p>
+<p>sympathizer 同情者；支持者；交感患病的眼睛（等于sympathiser）</p>
+<p><code>vi.</code>
+sympathise 同情；吊唁；共鸣（等于sympathize）</p>
+<p>﻿</p>
+<h1 id="tedium">tedium</h1>
+<p><code>adv.</code>
+tediously 沉闷地；冗长而乏味地</p>
+<p><code>n.</code>
+tedium 沉闷；单调乏味；厌烦</p>
+<p>tediousness 沉闷；乏味</p>
+<p>﻿</p>
+<h1 id="tempt">tempt</h1>
+<p><code>adj.</code>
+tempting 吸引人的；诱惑人的</p>
+<p>temptable 可诱惑的；易被诱惑的</p>
+<p><code>adv.</code>
+temptingly 诱惑人地；迷人地</p>
+<p><code>n.</code>
+temptation 引诱；诱惑物</p>
+<p>temptress 引诱男人的女性</p>
+<p>tempter 诱惑者；魔鬼；撒旦</p>
+<p><code>v.</code>
+tempting 引诱（tempt的ing形式）</p>
+<p>﻿</p>
+<h1 id="tense">tense</h1>
+<p><code>adj.</code>
+tense 紧张的；拉紧的</p>
+<p>tensile [力] 拉力的；可伸长的；可拉长的</p>
+<p>tensed 紧的；紧张的</p>
+<p>tensional 张力的；紧张的</p>
+<p><code>adv.</code>
+tensely 紧张地；拉紧地</p>
+<p><code>n.</code>
+tense 时态</p>
+<p>tensor [数] 张量；[解剖] 张肌</p>
+<p>tenseness 紧张；绷紧</p>
+<p>tensiometer 张力计；表面张力计；土壤湿度计</p>
+<p>tensity 紧张度，紧张</p>
+<p><code>v.</code>
+tensed 拉紧；变为紧张（tense的过去分词）</p>
+<p><code>vi.</code>
+tense 拉紧，变得紧张</p>
+<p><code>vt.</code>
+tense 变得紧张；使拉紧</p>
+<p>﻿</p>
+<h1 id="timid">timid</h1>
+<p><code>adj.</code>
+timorous 胆怯的；胆小的；羞怯的</p>
+<p><code>adv.</code>
+timidly 羞怯地；胆小地</p>
+<p>timorously 羞怯地；容易受惊地</p>
+<p><code>n.</code>
+timidity 胆怯，胆小；羞怯</p>
+<p>timidness 羞怯；胆小</p>
+<p>﻿</p>
+<h1 id="tolerant">tolerant</h1>
+<p><code>adj.</code>
+tolerant 宽容的；容忍的；有耐药力的</p>
+<p><code>adv.</code>
+tolerantly 宽容地，容忍地</p>
+<p><code>n.</code>
+tolerance 公差；宽容；容忍；公差</p>
+<p>toleration 宽容，忍受，默认；耐受性</p>
+<p>tolerator 杠杆式比长仪</p>
+<p>﻿</p>
+<h1 id="poison">poison</h1>
+<p><code>adj.</code>
+poisonous 有毒的；恶毒的；讨厌的</p>
+<p><code>n.</code>
+poisoning 中毒</p>
+<p>poisoner 投毒者；毒害者</p>
+<p><code>v.</code>
+poisoning 毒害（poison的ing形式）</p>
+<p>﻿</p>
+<h1 id="transmit">transmit</h1>
+<p><code>adj.</code>
+transmitted 透射的</p>
+<p>transmitting 传送中</p>
+<p>transmissible 能传送的；能透射的；可传达的</p>
+<p><code>n.</code>
+transmission 传动装置，[机] 变速器；传递；传送；播送</p>
+<p>transmitter [电讯] 发射机，[通信] 发报机；传达人</p>
+<p>transmittance [光] 透射比；透明度</p>
+<p>transmittal 传输；传送；被传送</p>
+<p>transmitting 传送，传递</p>
+<p><code>v.</code>
+transmitted 传输；传送（transmit的过去分词）</p>
+<p>transmitting 传递，发射（transmite的现在分词形式）</p>
+<p>﻿</p>
+<h1 id="transparent">transparent</h1>
+<p><code>adv.</code>
+transparently 显然地，易觉察地；明亮地</p>
+<p><code>n.</code>
+transparency 透明，透明度；幻灯片；有图案的玻璃</p>
+<p>transparence 透明；透明度</p>
+<p>﻿</p>
+<h1 id="trauma">trauma</h1>
+<p><code>n.</code>
+trauma [外科] 创伤（由心理创伤造成精神上的异常）；外伤</p>
+<p>traumatology 创伤学，外伤学</p>
+<p><code>vt.</code>
+traumatize 使……受损伤；使……受精神创伤</p>
+<p>﻿</p>
+<h1 id="triumph">triumph</h1>
+<p><code>adj.</code>
+triumphant 成功的；得意洋洋的；狂欢的</p>
+<p>triumphal 凯旋的，胜利的</p>
+<p><code>adv.</code>
+triumphantly 成功地；耀武扬威地</p>
+<p>﻿</p>
+<h1 id="trivial">trivial</h1>
+<p><code>adv.</code>
+trivially 琐细地；平凡地；无能地</p>
+<p><code>n.</code>
+triviality 浅薄，轻浮；琐事；平凡</p>
+<p><code>vt.</code>
+trivialize 使平凡；使琐碎</p>
+<p>﻿</p>
+<h1 id="unanimous">unanimous</h1>
+<p><code>adv.</code>
+unanimously 全体一致地</p>
+<p><code>n.</code>
+unanimity 同意，全体一致</p>
+<p>﻿</p>
+<h1 id="universe">universe</h1>
+<p><code>adj.</code>
+universalist 普救说的</p>
+<p><code>adv.</code>
+universally 普遍地；人人；到处</p>
+<p><code>n.</code>
+universe 宇宙；世界；领域</p>
+<p>universality 普遍性；广泛性；一般性；多方面性</p>
+<p>universalism 普遍主义；普遍性；普救论</p>
+<p>universalist 信普救说者；普遍主义者</p>
+<p><code>vt.</code>
+universalize 使普遍化，使一般化</p>
+<p>﻿</p>
+<h1 id="vacant">vacant</h1>
+<p><code>adv.</code>
+vacantly 神情茫然地</p>
+<p><code>n.</code>
+vacancy 空缺；空位；空白；空虚</p>
+<p>vacuity 空虚；空白；思想贫乏；无聊之事</p>
+<p>﻿</p>
+<h1 id="valid">valid</h1>
+<p><code>adj.</code>
+validated 经过验证的</p>
+<p>validating 确认的；有效的</p>
+<p><code>adv.</code>
+validly 合法地；正当地；妥当地</p>
+<p><code>n.</code>
+validity [计] 有效性；正确；正确性</p>
+<p>validation 确认；批准；生效</p>
+<p>validating 确认</p>
+<p>validness 有效；正确</p>
+<p><code>v.</code>
+validated 确认（validate的过去式及过去分词形式）；使生效</p>
+<p>validating 验证（validate的ing形式）；确认</p>
+<p><code>vt.</code>
+validate 证实，验证；确认；使生效</p>
+<p>﻿</p>
+<h1 id="versatile">versatile</h1>
+<p><code>n.</code>
+versatility 多功能性；多才多艺；用途广泛</p>
+<p>﻿</p>
+<h1 id="vulnerably">vulnerably</h1>
+<p><code>adv.</code>
+vulnerably 脆弱地；易受伤害地</p>
+<p><code>n.</code>
+vulnerability 易损性；弱点</p>
+<p>﻿</p>
+<h1 id="vital">vital</h1>
+<p><code>adv.</code>
+vitally 极其；紧要地；生死攸关地</p>
+<p><code>n.</code>
+vitality 活力，生气；生命力，生动性</p>
+<p>vitalism [生物] 活力论；[生物] 生机说</p>
+<p>vitalist 活力论者</p>
+<p>vitalization 赋予生命</p>
+<p>vitalness 充满活力</p>
+<p><code>vt.</code>
+vitalize 赋予…生命；激发；使有生气</p>
+<p>﻿</p>
+<h1 id="weary">weary</h1>
+<p><code>adj.</code>
+wearing 磨损的；穿用的；令人疲倦的</p>
+<p>wearisome 使疲倦的；使厌倦的；乏味的</p>
+<p><code>adv.</code>
+wearily 疲倦地；无聊地；厌倦地</p>
+<p><code>n.</code>
+weariness 疲倦，疲劳；厌倦</p>
+<p><code>v.</code>
+wearing 穿着；磨损（wear的ing形式）</p>
+<p>﻿</p>
+<h1 id="withdraw">withdraw</h1>
+<p><code>adj.</code>
+withdrawn 偏僻的；沉默寡言的；孤独的</p>
+<p>withdrawable 可抽出的；可更换的；可拆卸的；能够提取的</p>
+<p><code>n.</code>
+withdrawal 撤退，收回；提款；取消；退股</p>
+<p>withdrawer 回收者；回收器；弃权者（withdraw的名词形式）</p>
+<p><code>v.</code>
+withdrawn 取出；撤退（withdraw的过去分词）</p></body>
+</html>

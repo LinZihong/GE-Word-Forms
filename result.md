@@ -1,2219 +1,2435 @@
-# antagonist
+# hesitant
 
 `adj.`
+hesitant 迟疑的；踌躇的；犹豫不定的
 
-antagonistic 敌对的；对抗性的；反对的
+hesitating 犹豫的
+
+hesitative 支吾其辞的；踌躇的
+
+`adv.`
+hesitantly 迟疑地；踌躇地
+
+hesitatingly 踌躇地；支吾其词地
 
 `n.`
+hesitation 犹豫
 
-antagonist 敌手；[解剖] 对抗肌；[生化] 拮抗物；反协同试剂
+hesitance 踌躇；犹豫
+
+hesitancy 踌躇，犹豫
+
+`v.`
+hesitating 犹豫（hesitate的ing形式）
+
+﻿
+# hinder
+
+`adj.`
+hindermost 最后面的，最靠近后方的
+
+hindmost 最后面的，最后部的
+
+`n.`
+hindrance 障碍；妨碍；妨害；阻碍物
+
+﻿
+# hostile
+
+`n.`
+hostility 敌意；战争行动
+
+﻿
+# humane
+
+`adj.`
+humanitarian 人道主义的；博爱的；基督凡人论的
+
+humanistic 人文主义的；人道主义的
+
+humanism 人文主义的；人道主义的
+
+humanist 人文主义的；人道主义的
+
+`adv.`
+humanly 以人力；像人地；在人力所能及的范围
+
+humanely 人道地；富人情地；慈悲地
+
+`n.`
+humanity 人类；人道；仁慈；人文学科
+
+humanitarian 人道主义者；慈善家；博爱主义者；基督凡人论者
+
+humanism 人道主义
+
+humanist 人道主义者；人类学者，人文学者；人文主义者
+
+humanitarianism 人道主义；博爱主义
+
+humaneness 深情；慈悲
+
+humanise 变得有人性；变得仁慈；有教化力（等于humanize）
+
+humanness 为人，为人的资格；人性
 
 `vi.`
-
-antagonize 引起反抗
-
-antagonise 引起对抗/反感
+humanize 变为有人性；有教化
 
 `vt.`
+humanize 教化；赋予人性；使通人情
 
-antagonize 使…敌对；使…对抗；对…起反作用
+humanise （英）使人性化；使文明化
 
-antagonise 使敌对；抵销
-
-# appease
-
-`adj.`
-
-appeasable 缓和得了的；劝解得了的；平息得了的
-
-`n.`
-
-appeasement 缓和，平息；姑息
-
-appeaser 劝解人
-
-# abuse
+﻿
+# humid
 
 `adj.`
-
-abusive 辱骂的；滥用的；虐待的
-
-`adv.`
-
-abusively 滥用地；辱骂地
+humectant 湿润的；湿润剂的
 
 `n.`
+humidity [气象] 湿度；湿气
 
-abused 滥用，恶习；受虐
-
-`v.`
-
-abused 滥用；虐待；辱骂（abuse的过去分词）
-
-# modify
-
-`adj.`
-
-modified 改进的，修改的；改良的
-
-modifiable 可修饰的；可更改的
-
-`n.`
-
-modifier [助剂] 改性剂；[语] 修饰语；修正的人
-
-modification 修改，修正；改变
-
-`v.`
-
-modified 修改；缓和（modify的过去分词）
-
-# abolish
-
-`adj.`
-
-abolishable 可废止的；可废除的
-
-`n.`
-
-abolition 废除；废止
-
-abolitionist 废奴主义者；废除主义者
-
-abolitionism 废除主义；废奴主义
-
-# absurd
-
-`adv.`
-
-absurdly 荒谬地；愚蠢地；悖理地
-
-`n.`
-
-absurdity 荒谬；谬论；荒谬的言行
-
-absurdness 荒谬；愚蠢；不合理
-
-# accelerate
-
-`adj.`
-
-accelerated 加速的；加快的
-
-accelerating 促进的，[物] 加速的；催化的
-
-accelerative 加速的；促进的；催促的
-
-acceleratory 加速的；催促的（等于accelerative）
-
-`n.`
-
-acceleration 加速，促进；[物] 加速度
-
-accelerator 油门；催化剂；[机] 加速装置
-
-accelerometer [航][物] 加速计
-
-`v.`
-
-accelerated 加速；促进（accelerate的变形）
-
-# access
-
-`adj.`
-
-accessible 易接近的；可进入的；可理解的
-
-`n.`
-
-accessibility 易接近；可亲；可以得到
-
-accession 增加；就职；到达
+humectant [助剂] 湿润剂
 
 `vt.`
+humidify 使潮湿；使湿润
 
-accession 登记入册
-
-# adhere
-
-`adj.`
-
-adherent 附着的；粘着的
-
-`n.`
-
-adherence 坚持；依附；忠诚
-
-adherent 信徒；追随者
-
-# adverse
+﻿
+# humiliate
 
 `adj.`
+humiliated 羞辱的
 
-adversative 反意的；表示相反的
-
-`adv.`
-
-adversely 不利地；逆地；反对地
+humiliating 丢脸的；羞辱性的
 
 `n.`
-
-adversative 反意语；转折词
-
-# affirm
-
-`adj.`
-
-affirmative 肯定的；积极的
-
-affirmable 可断言的；可确定的
-
-`adv.`
-
-affirmatively 肯定地；断然地
-
-`n.`
-
-affirmative 肯定语；赞成的一方
-
-affirmation 主张，肯定；断言
-
-# afflict
-
-`adj.`
-
-afflictive 难受的；苦恼的；给人痛苦的
-
-`n.`
-
-affliction 苦难；苦恼；折磨
-
-# affluent
-
-`n.`
-
-affluence 富裕；丰富；流入；汇聚
-
-# aggravate
-
-`adj.`
-
-aggravated 加重的；恶化的
-
-aggravating 加重的；令人恼怒的
-
-`n.`
-
-aggravation 加剧；激怒；更恶化
+humiliation 丢脸，耻辱；蒙羞；谦卑
 
 `v.`
+humiliated 屈辱（humiliate的过去式）；使…丢脸，使…蒙羞
 
-aggravated 加重；恶化（aggravate的过去分词）；刺激
+humiliating 使蒙耻（humiliate的ing形式）
 
-aggravating 使恶化；激怒（aggravate的ing形式）
-
-# agile
-
-`adv.`
-
-agilely 灵活地；头脑敏捷地
-
-`n.`
-
-agility 敏捷；灵活；机敏
-
-# alert
+﻿
+# hypothesis
 
 `adv.`
-
-alertly 留意地；提高警觉地
-
-`n.`
-
-alertness 警戒；机敏
-
-# alien
-
-`adj.`
-
-alien 外国的；相异的，性质不同的；不相容的
-
-alienated 疏远的；被疏远的
-
-alienable 可让与的，可转让的
+hypothetically 假设地；假想地
 
 `n.`
-
-alien 外国人，外侨；外星人
-
-alienation 异化；疏远；转让；[内科] 精神错乱；间离效果（alienation effect）
-
-alienator 疏远者；赠予者；转让者
-
-alienee 受让人
-
-alienor 让渡人
-
-`v.`
-
-alienated 使疏离（alienate的过去式）
-
-`vt.`
-
-alien 让渡，转让
-
-# fantast
-
-`adj.`
-
-fantasy 虚幻的
-
-fantastical 空想的；捕风捉影的
-
-`adv.`
-
-fantastically 想像中地；奇特地；难以置信地
-
-`n.`
-
-fantasy 幻想；白日梦；幻觉
-
-fantast 幻想家；梦想家；脾气古怪的人
+hypothesis 假设
 
 `vi.`
+hypothesize 假设，假定
 
-fantasy 耽于幻想；奏幻想曲（等于phantasy）
+hypothesise （英）假定；设定；假设（等于hypothesize）
 
 `vt.`
+hypothesize 假设，假定
 
-fantasy 空想；想像
+hypothesise （英）假定；设定；假设（等于hypothesize）
 
-# illusion
+﻿
+# identify
 
 `adj.`
+identified 被识别的；经鉴定的；被认同者
 
-illusory 错觉的；幻影的；虚假的；产生幻觉的
-
-illusive 错觉的；幻影的；迷惑人的
-
-illusionary 错觉的，幻影的（等于illusional）
-
-illusional 错觉的；幻影的
-
-`n.`
-
-illusionist 魔术师；爱幻想的人；幻觉论者；幻觉派的艺术家
-
-# altruist
+identifiable 可辨认的；可认明的；可证明是同一的
 
 `adv.`
-
-altruistically 利他地；无私地
-
-`n.`
-
-altruism 利他；利他主义
-
-altruist 爱他主义者；利他主义者
-
-# ambivalent
+identifiably 可辨认地；可看作是相同地
 
 `n.`
+identity 身份；同一性，一致；特性；恒等式
 
-ambivalence [心理] 矛盾情绪；正反感情并存
+identification 鉴定，识别；认同；身份证明
 
-# anecdote
+identifier 标识符，认同者；检验人，鉴定人
 
-`adj.`
-
-anecdotal 轶事的；轶事一样的；多轶事的
-
-anecdotic 轶事的；爱谈轶事的
-
-anecdotical 轶事的；善谈轶事的
-
-`n.`
-
-anecdotist 讲轶事的人；搜集轶事趣闻的人（等于anecdotalist）
-
-# animate
-
-`adj.`
-
-animated 活生生的；活泼的；愉快的
-
-animating 有生气的；启发的
-
-`adv.`
-
-animatedly 精力旺盛地；活生生地
-
-`n.`
-
-animation 活泼，生气；激励；卡通片绘制
-
-animated 使…有生气（animate的过去式）
-
-animator 鼓舞者；赋与生气者；卡通片绘制者（等于animater）
-
-animatism 万物有灵论
+identifying 识别，标识；标识关系
 
 `v.`
+identified 鉴定（identify的过去分词）；辨认
 
-animating 赋予生命（animate的过去式和过去分词）
+identifying 识别（identify的现在分词）
 
-# anonym
-
-`adv.`
-
-anonymously 不具名地；化名地
-
-`n.`
-
-anonymity 匿名；匿名者；无名之辈
-
-anonym 假名；匿名者；化名
-
-# apathy
+﻿
+# illuminate
 
 `adj.`
+illuminated 被照明的
 
-apathetic 冷漠的；无动于衷的，缺乏兴趣的
-
-`adv.`
-
-apathetically 冷淡地；无动于衷地；不感兴趣地
-
-# appeal
-
-`adj.`
-
-appealing 吸引人的；动人的；引起兴趣的；恳求似的
-
-appealable 可上诉的
-
-`adv.`
-
-appealingly 上诉地；哀求地；吸引人地
-
-`n.`
-
-appealingness 有感染力；吸引人；哀诉；恳求
+illuminating 照亮的，照明的；启蒙的，有启发性的
 
 `v.`
+illuminated 照明；启发；兴奋（illuminate的过去分词）
 
-appealing 恳求（appeal的ing形式）；将…上诉
+illuminating 照明，阐释（illuminate的现在分词形式）
 
-# appreciate
+﻿
+# illustrate
 
 `adj.`
+illustrative 说明的；作例证的；解说的
 
-appreciative 感激的；赏识的；有欣赏力的；承认有价值的
+`n.`
+illustration 说明；插图；例证；图解
+
+illustrator 插图画家；说明者；图解者
+
+﻿
+# imitate
+
+`adj.`
+imitation 人造的，仿制的
+
+imitative 模仿的；仿制的
+
+`n.`
+imitation 模仿，仿造；仿制品
+
+imitator 模仿者；[自] 模拟器
+
+﻿
+# mature
+
+`adj.`
+matured 成熟的；到期的
 
 `adv.`
-
-appreciatively 欣赏地，赞赏地；感激地
-
-`n.`
-
-appreciation 欣赏，鉴别；增值；感谢
-
-# apprehend
-
-`adj.`
-
-apprehensive 忧虑的；不安的；敏悟的；知晓的
-
-apprehensible 可理解的，可了解的
-
-`adv.`
-
-apprehensively 担心地
+maturely 成熟地；充分地
 
 `n.`
+maturity 成熟；到期；完备
 
-apprehension 理解；恐惧；逮捕；忧惧
-
-apprehensiveness 领悟力；忧虑感
-
-# aspire
-
-`adj.`
-
-aspiring 有抱负的；追求…的；高耸的
-
-aspirational 有雄心壮志的；（生活形态等）梦寐以求的
-
-`n.`
-
-aspiration 渴望；抱负；呼气；吸引术
-
-aspirational 成功指南；处世自助手册
-
-aspirer 热望者；追求者
+maturation 成熟；化脓；生殖细胞之形成
 
 `v.`
-
-aspiring 立志（aspire的ing形式）
-
-# assume
-
-`adj.`
-
-assumed 假定的；假装的
-
-assuming 傲慢的；不逊的；僭越的
-
-assumptive 假定的；设想的；傲慢的
-
-`adv.`
-
-assumedly 大概；多半
-
-`n.`
-
-assumption 假定；设想；担任；采取
-
-`v.`
-
-assuming 假设（assume的ing形式）
-
-# astonish
-
-`adj.`
-
-astonishing 惊人的；令人惊讶的
-
-`adv.`
-
-astonishingly 令人惊讶地
-
-`n.`
-
-astonishment 惊讶；令人惊讶的事物
-
-`v.`
-
-astonishing 使…惊讶；使…诧异（astonish的ing形式）
-
-# automat
-
-`adj.`
-
-automatically 不经思索的
-
-automated 自动化的；机械化的
-
-`adv.`
-
-automatically 自动地；机械地；无意识地
-
-`n.`
-
-automation 自动化；自动操作
-
-automaton 自动机；机器人；自动机器
-
-automat 自动售货机；[自] 自动机；自动贩卖式餐馆
-
-automatism 自动作用；[医] 自动症；自动性
-
-`v.`
-
-automated 自动化（automate的过去分词）；自动操作
+matured 成熟；到期（mature的过去分词）
 
 `vi.`
-
-automate 自动化，自动操作
-
-automatize 自动化
+maturate 成熟；化脓
 
 `vt.`
+maturate 成熟；化脓；使化脓
 
-automate 使自动化，使自动操作
-
-automatise （英）使自动化（等于automatize）
-
-automatize 使自动化
-
-# avid
-
-`adv.`
-
-avidly 贪心地；热心地
-
-`n.`
-
-avidity 热望，贪欲；活动性
-
-avidness 渴望；热心
-
-# bankrupt
-
-`n.`
-
-bankruptcy 破产
-
-# benignly
+﻿
+# immune
 
 `adj.`
+immunized 免疫的
 
-beneficent 慈善的；善行的
-
-benignant 良性的；仁慈的；有益的；和蔼的
-
-`adv.`
-
-benevolently 仁慈地；慷慨地
-
-benignantly 有益地；亲切地；仁慈地
-
-benignly 亲切地；仁慈地
+immunochemical 免疫化学的
 
 `n.`
+immunity 免疫力；豁免权；免除
 
-benevolence 仁慈；善行
+immunization 免疫
 
-beneficence 慈善；善行；捐款
+immunisation 免疫；免疫法
 
-benignancy 仁慈；良性；亲切
+immunoassay 免疫分析，免疫测定
 
-benignity 仁慈；善举
+immunochemistry 免疫化学
 
-# betray
-
-`n.`
-
-betrayal 背叛；辜负；暴露
-
-betrayer 叛徒；背信者；告密者
-
-# bewilder
-
-`adj.`
-
-bewildered 困惑的；眩
-
-bewildering 使人困惑的；令人产生混乱的
-
-`adv.`
-
-bewilderingly 令人困惑地；使人迷乱地
-
-`n.`
-
-bewilderment 困惑；迷乱；慌张
+immunocompetence 免疫能力；免疫活性
 
 `v.`
-
-bewildered 使困惑（bewilder的过去分词）
-
-bewildering 使迷惑（bewilder的ing形式）
-
-# blight
-
-`adj.`
-
-blighted 枯萎的；摧残的
-
-`v.`
-
-blighted 使染上枯萎病；毁坏（blight的过去式和过去分词）
-
-# caprice
-
-`adj.`
-
-capricious 反复无常的；任性的
-
-`adv.`
-
-capriciously 任性地；善变地
-
-`n.`
-
-capriciousness 变幻莫测，变化无常
-
-# captor
-
-`adj.`
-
-captive 被俘虏的；被迷住的
-
-`n.`
-
-captive 俘虏；迷恋者
-
-captor 捕获者；俘虏者
-
-capturer 捕获者
-
-# category
-
-`adj.`
-
-categorical 绝对的（名词categoricalness，副词categorically，异体字categoric）；直接了当的；无条件的；属于某一范畴的
-
-categorized 分类的
-
-categorial 范畴的；范围的（等于categoreal）
-
-`n.`
-
-categorization 分类；分门别类；编目方法
-
-`v.`
-
-categorized 分类（categorize的过去式）
+immunized 使免疫（immunize的过去式、过去分词形式）
 
 `vt.`
+immunize 使免疫；赋予免疫性
 
-categorize 分类
+immunise 使免疫（等于immunize）
 
-categorise 分类；加以类别
-
-# caution
-
-`adj.`
-
-cautious 谨慎的；十分小心的
-
-cautionary 警告的；劝诫的
+﻿
+# impartial
 
 `adv.`
-
-cautiously 慎重地，谨慎地
-
-`n.`
-
-cautiousness 谨慎；小心
-
-# cease
-
-`adj.`
-
-ceaseless 不断的；不停的
-
-`adv.`
-
-ceaselessly 不停地
-
-# charisma
-
-`adj.`
-
-charismatic 超凡魅力的；神赐能力的
-
-# clarify
-
-`adj.`
-
-clarified 澄清的；透明的
+impartially 公平地；无私地
 
 `n.`
+impartiality 公正，公平；不偏不倚
 
-clarity 清楚，明晰；透明
+﻿
+# expose
 
-clarification 澄清，说明；净化
+`adj.`
+exposed 暴露的，无掩蔽的
+
+`n.`
+exposure 暴露；曝光；揭露；陈列
 
 `v.`
+exposed 暴露，揭露（expose的过去分词）
 
-clarified 阐明（clarify的过去分词形式）；澄清
+﻿
+# implausibly
 
-# class
-
-`adj.`
-
-class 极好的
-
-classified 分类的；类别的；机密的
-
-classy 优等的；上等的；漂亮的
-
-classifiable 可分类的
-
-classificatory 类别的；分类上的
+`adv.`
+implausibly 难以置信地
 
 `n.`
+implausibility 难以相信；不像真实
 
-class 阶级；班级；种类
+﻿
+# impose
 
-classification 分类；类别，等级
+`adj.`
+imposed 强加的；施加的；应用的
 
-classified 分类广告
+imposing （建筑物等）壮观的；威风的；（仪表）堂堂的；给人深刻印象的
 
-classifier [测][遥感] 分类器；分类者；分类词
+`n.`
+imposition 征收；强加；欺骗；不公平的负担
+
+imposture 欺诈，欺骗；冒牌
 
 `v.`
+imposed 欺骗（impose的过去分词）；把…强加于
 
-classified 把…分类（classify的过去分词）
+imposing impose的ing形式
 
-`vt.`
-
-class 分类；把…分等级
-
-# coerce
+﻿
+# improve
 
 `adj.`
+improving 有启发的；有教育意义的
 
-coercive 强制的；胁迫的；高压的
+improvised 即兴的；临时准备的
 
 `n.`
-
-coercion 强制；强迫；高压政治；威压
-
-# cohere
-
-`adj.`
-
-coherent 连贯的，一致的；明了的；清晰的；凝聚性的；互相偶合的；粘在一起的
-
-cohesive 有结合力的；紧密结合的；有粘着力的
-
-`adv.`
-
-coherently 连贯地；前后一致地；条理清楚地；互相偶合地；凝聚性地
-
-`n.`
-
-cohesion 凝聚；结合；[力] 内聚力
-
-coherence 一致；连贯性；凝聚
-
-cohesiveness 凝聚力；粘结性；内聚力
-
-# coincide
-
-`adj.`
-
-coincident 一致的；符合的；同时发生的
-
-coincidental 巧合的；符合的；暗合的；一致的
-
-`adv.`
-
-coincidentally 巧合地；一致地
-
-`n.`
-
-coincidence 巧合；一致；同时发生
-
-# commemorate
-
-`adj.`
-
-commemorative 纪念的
-
-`n.`
-
-commemoration 纪念；庆典；纪念会
-
-# compel
-
-`adj.`
-
-compelling 引人注目的；强制的；激发兴趣的
+improvisation 即兴创作；即席演奏
 
 `v.`
+improving 提高；改善；利用（improve的ing形式）
 
-compelling 强迫；以强力获得（compel的ing形式）
-
-# compensate
-
-`adj.`
-
-compensable 可补偿的；应予以补偿的
-
-`n.`
-
-compensation 补偿；报酬；赔偿金
-
-# complacent
-
-`adv.`
-
-complacently 满足地；自满地；沾沾自喜地
-
-`n.`
-
-complacency 自满；满足；自鸣得意
-
-# compose
-
-`adj.`
-
-composite 复合的；合成的；菊科的
-
-composing 起镇静作用的
-
-compositional 组成的；创作的；作曲的
-
-`adv.`
-
-composedly 镇定地；沉着地；自若地
-
-`n.`
-
-composition 作文，作曲；[材] 构成；合成物
-
-composite 复合材料；合成物；菊科
-
-composer 作曲家；作家，著作者；设计者
-
-composure 镇静；沉着
-
-composing 组成；[印刷] 排字
-
-`v.`
-
-composing 组成；写作（compose的ing形式）
+improvised 即兴创作；临时做，临时提供（improvise的过去分词）
 
 `vi.`
-
-compose 组成；作曲；排字
+improve 增加；变得更好
 
 `vt.`
+improve 改善，增进；提高…的价值
 
-compose 构成；写作；使平静；排…的版
-
-composite 使合成；使混合
-
-# comprehend
+﻿
+# impulse
 
 `adj.`
-
-comprehensive 综合的；广泛的；有理解力的
-
-comprehensible 可理解的
+impulsive 冲动的；受感情驱使的；任性的
 
 `adv.`
-
-comprehensively 包括地；包括一切地
+impulsively 有推动力地
 
 `n.`
+impulsiveness 冲动
 
-comprehensive 综合学校；专业综合测验
+impulsion 冲动；冲击；原动力
 
-comprehension 理解；包含
+﻿
+# incite
 
-comprehensibility 可了解性；能理解
+`n.`
+incitement 煽动，刺激；激励物
 
-# condemn
+incitation 激励；刺激；煽动；诱因
+
+﻿
+# incline
 
 `adj.`
+inclined 趋向于…的
 
-condemnatory 处罚的；非难的；定罪的
-
-condemnable 该受责备的，应受谴责的；该罚的；应定罪的，该定罪的
+inclining 倾斜的
 
 `n.`
+inclination 倾向，爱好；斜坡
 
-condemnation 谴责；定罪；非难的理由；征用
+inclining 倾向；爱好
 
-condemning 谴责；处刑
+inclinometer 倾角罗盘；倾斜计；倾角计
 
 `v.`
+inclined 使…倾向（incline的过去分词）
 
-condemning 谴责（condemn的现在分词）
+inclining 倾斜；倾向（incline的ing形式）；点头弯腰
 
-# condescend
+﻿
+# indicate
 
 `adj.`
+indicative 象征的；指示的；表示…的
 
-condescending 谦逊的；故意屈尊的；有优越感的
+indicant 指示的；表示的
 
-`adv.`
-
-condescendingly 谦逊地；俯就地；屈尊地
+indicatory 表示的；指示的
 
 `n.`
+indicator 指示器；[试剂] 指示剂；[计] 指示符；压力计
 
-condescension 谦虚；屈尊；傲慢态度
+indication 指示，指出；迹象；象征
+
+indicative 陈述语气；陈述语气的动词形式
+
+indicant 指示物
+
+﻿
+# indign
+
+`adj.`
+indign 不值得的；可耻的
+
+`adv.`
+indignantly 愤怒地；愤慨地
+
+`n.`
+indignation 愤慨；愤怒；义愤
+
+﻿
+# indulge
+
+`adv.`
+indulgently 溺爱地；放任地
+
+`n.`
+indulgence 嗜好；放纵；纵容；沉溺
+
+indulging 沉迷其中
 
 `v.`
+indulging 沉迷（indulge的现在分词）
 
-condescending 屈尊（condescend的ing形式）
+﻿
+# inept
 
-# confine
-
-`adj.`
-
-confined 狭窄的；幽禁的；有限制的；在分娩中的
-
-confining 受限的，限制的；狭窄的，偏狭的；拘束的
+`adv.`
+ineptly 不适当地；无能地
 
 `n.`
+ineptitude 不适当，不合适；不称职；愚笨
 
-confinement 限制；监禁；分娩
+ineptness 拙劣；荒谬
+
+﻿
+# inequity
+
+`adj.`
+inequitable 不公平的；不公正的
+
+﻿
+# inferior
+
+`n.`
+inferiority 自卑；下属；次等；下部
+
+﻿
+# inflict
+
+`adj.`
+inflictable 可处罚的
+
+inflictive 加以打击的；使人难过的
+
+`n.`
+infliction 施加；处罚，刑罚
+
+inflicter 加害者；惩罚者
+
+﻿
+# influent
+
+`adj.`
+influential 有影响的；有势力的
+
+influent 流入的
+
+`adv.`
+influentially 有影响地；有力地
+
+`n.`
+influent 支流
+
+﻿
+# infringe
+
+`n.`
+infringement 侵犯；违反
+
+﻿
+# ingenious
+
+`adv.`
+ingeniously 贤明地；有才能地
+
+`n.`
+ingenuity 心灵手巧，独创性；精巧；精巧的装置
+
+ingeniousness 机敏（精巧；精致；有创造才能）
+
+﻿
+# inhabit
+
+`adj.`
+inhabited 有人居住的
+
+inhabitable 适于居住的；可居住的，可栖居的
+
+`n.`
+inhabitant 居民；居住者
+
+inhabitancy 居住，住所；有人居住的状态
+
+inhabitation 居住；栖息
 
 `v.`
+inhabited 占据（inhabit的过去分词）；居住于
 
-confined 限制（confine的过去式和过去分词）
-
-# confirm
-
-`adj.`
-
-confirmed 确认的；保兑的；坚定的；惯常的
-
-confirmatory 证实的；确定的
-
-confirmable 可证实的；可确定的
+﻿
+# initiate
 
 `n.`
+initiation 启蒙，传授；开始；入会
 
-confirmation 确认；证实；证明；批准
+initiator 发起人，创始者；教导者；[计] 启动程序；引爆器
 
-`v.`
-
-confirmed 确证；使坚定（confirm的过去分词）；批准
-
-# conform
+﻿
+# innovate
 
 `adj.`
+innovative 革新的，创新的
 
-conformable 一致的；顺从的；适合的
+innovational 革新的；富有革新精神的
+
+`n.`
+innovation 创新，革新；新方法
+
+innovator 改革者，创新者
+
+innovativeness 创新性，创新精神
+
+﻿
+# insight
+
+`adj.`
+insightful 有深刻见解的，富有洞察力的
+
+﻿
+# instinct
+
+`adj.`
+instinctive 本能的；直觉的；天生的
 
 `adv.`
+instinctively 本能地
 
-conformably 顺从地；一致地
-
-`n.`
-
-conformity 一致，适合；符合；相似
-
-conformance 一致性；顺应
-
-conformation 构造；一致，符合
-
-conformist 英国国教徒；遵奉者
-
-conformism 因循守旧；盲从因袭的态度
-
-# confront
+﻿
+# intense
 
 `adj.`
+intensive 加强的；集中的；透彻的；加强语气的
 
-confrontational 对抗的；对抗性的
-
-`n.`
-
-confrontation 对抗；面对；对质
-
-# conscience
-
-`adj.`
-
-conscientious 认真的；尽责的；本着良心的；小心谨慎的
-
-conscienceless 不知廉耻的；没良心的
+intensional 内涵的；紧张的
 
 `adv.`
-
-conscientiously 良心上
-
-`n.`
-
-conscientiousness 尽责；凭良心办事
-
-# consistent
-
-`adv.`
-
-consistently 一贯地；一致地；坚实地
+intensely 强烈地；紧张地；热情地
 
 `n.`
+intensity 强度；强烈；[电子] 亮度；紧张
 
-consistency [计] 一致性；稠度；相容性
+intensive 加强器
 
-# conspicuous
-
-`adv.`
-
-conspicuously 显著地，明显地；超群地，惹人注目地
-
-`n.`
-
-conspicuousness 显而易见；惹人注目；突出
-
-# contemplate
-
-`adj.`
-
-contemplative 沉思的；冥想的；默想的
-
-`n.`
-
-contemplation 沉思；注视；意图
-
-# contempt
-
-`adj.`
-
-contemptible 可鄙的；卑劣的；可轻视的
-
-# contend
-
-`adj.`
-
-contentious 诉讼的；有异议的，引起争论的；爱争论的
-
-`n.`
-
-contention 争论，争辩；争夺；论点
-
-contender 竞争者；争夺者
-
-# controvert
-
-`adj.`
-
-controversial 有争议的；有争论的
-
-`adv.`
-
-controversially 颇有争议地；引起争议地
+intension 强度，烈度；加强，加剧；紧张
 
 `vi.`
-
-controvert 争论；辩论
-
-`vt.`
-
-controvert 驳斥；就…展开争论
-
-# convention
-
-`adj.`
-
-conventional 符合习俗的，传统的；常见的；惯例的
-
-conventionalized 定型化的；约定俗成的
-
-`adv.`
-
-conventionally 照惯例，照常套
-
-`n.`
-
-conventionality 惯例；习俗；老套
-
-conventionalization 惯例化；习俗化；象征手法化
-
-`v.`
-
-conventionalized 使照惯例；俗化（conventionalize的过去式及过去分词）
+intensify 增强，强化；变激烈
 
 `vt.`
+intensify 使加强，使强化；使变激烈
 
-conventionalize 使习俗化；使样式化；使照惯例
-
-# convert
-
-`adj.`
-
-convertible 可改变的；同意义的；可交换的
-
-converted 修改的；改变信仰的
-
-`n.`
-
-conversion 转换；变换；[金融] 兑换；改变信仰
-
-converter [电] 变流器，整流器；转化器
-
-convertible 有活动折篷的汽车
-
-convertibility 可变换，可兑换；可改变性
-
-`v.`
-
-converted 转变；改变信仰（convert的过去式和过去分词形式）
-
-# corrupt
+﻿
+# intent
 
 `adj.`
+intent 专心的；急切的；坚决的
 
-corruptible 易腐败的；易堕落的；可以贿赂的
-
-corruptive 使堕落的；腐败性的；使腐坏的
-
-`n.`
-
-corruption 贪污，腐败；堕落
-
-corruptibility 堕落性；腐败性；易腐败的倾向
-
-corruptness 腐败；堕落
-
-corruptor 行贿人
-
-# courtly
-
-`adj.`
-
-courtesy 殷勤的；被承认的；出于礼节的
-
-courtly 尊严而有礼貌的；奉承的；有宫廷气派的，威严的
+intentional 故意的；蓄意的；策划的
 
 `adv.`
+intentionally 故意地，有意地
 
-courteously 有礼貌地；亲切地
+intently 专心地；一心一意地；心无旁物地
 
 `n.`
+intent 意图；目的；含义
 
-courtesy 礼貌；好意；恩惠
+intentionality 意向性，意图性
 
-courtliness 礼让；恳挚；谦恭
-
-# cred
-
-abbr.
-
-cred 信誉；可靠性（credibility）
+﻿
+# interfere
 
 `adj.`
+interfering 干涉的；多管闲事的
 
-creditable 可信的；声誉好的；值得称赞的
+`n.`
+interference 干扰，冲突；干涉
 
-credal 信条的；教义的；信经的
+interferometer [光] 干涉仪；干涉计
+
+`v.`
+interfering 妨碍（interfer的ing形式）
+
+﻿﻿﻿
+# intervene
+
+`adj.`
+intervening 介于中间的
+
+`n.`
+intervention 介入；调停；妨碍
+
+intervenor 介入者；干涉者
+
+`v.`
+intervening 介入（intervene的ing形式）
+
+﻿
+# intimate
 
 `adv.`
-
-credibly 可靠地；可信地
+intimately 熟悉地；亲切地；私下地
 
 `n.`
+intimacy 性行为；亲密；亲昵行为；隐私
 
-credibility 可信性；确实性
+intimation 暗示；告知；讽示
 
-credence 信任；凭证；祭器台（等于credence table，credenza）
-
-cred 街头信誉（等于street cred）
-
-# defend
+﻿
+# intimidate
 
 `adj.`
+intimidating 吓人的
 
-defendant 辩护的；为自己辩护的
+intimidated 害怕的；受到恐吓的
 
-defensive 自卫的；防御用的
+`n.`
+intimidation 恐吓，威胁
 
-defending 卫冕的；防御中的；防守型的
+`v.`
+intimidated 威胁，恐吓（intimidate的过去式）
 
-defensible 可防御的；可辩护的；可拥护的
-
-defenseless 无防备的
-
-defenceless （英）无防御的；无保护的
-
-defendable 可防御的
+﻿
+# intricate
 
 `adv.`
-
-defensively 防御地；守势地
-
-`n.`
-
-defense 防卫，防护；防御措施；防守；`vt.` 谋划抵御
-
-defence 防御；防卫；答辩；防卫设备
-
-defendant 被告
-
-defensive 防御；守势
-
-defender 防卫者，守卫者；辩护者；拥护者；卫冕者
-
-defensiveness 防御；防御性
-
-defenselessness 无防御
-
-`v.`
-
-defending 防护；防卫（defend的ing形式）
-
-# deficit
+intricately 杂乱地
 
 `n.`
+intricacy 错综，复杂；难以理解
 
-deficit 赤字；不足额
-
-deficiency 缺陷，缺点；缺乏；不足的数额
-
-# delude
+﻿
+# intrude
 
 `adj.`
+intrusive 侵入的；打扰的
 
-delusional 妄想的
+`n.`
+intrusion 侵入；闯入
 
-delusive 欺瞒的；使迷惑的
+intruder 侵入者；干扰者；妨碍者
 
-delusory 迷惑的，困惑的（等于delusive）
+intrusiveness 干涉性；侵扰性；侵入性
+
+﻿
+# intuit
+
+`adj.`
+intuitive 直觉的；凭直觉获知的
+
+intuitionist 直觉主义的
 
 `adv.`
-
-delusively 欺瞒地；困惑地
-
-`vt.`
-
-delude 迷惑；逃避；使失望
-
-# denounce
+intuitively 直观地；直觉地
 
 `n.`
+intuitionism 直观论；直觉说
 
-denouncement 告发；痛骂；公开抨击
-
-# deplete
-
-`adj.`
-
-depleted 耗尽的；废弃的；贫化的
-
-depletable 可耗减的
-
-depletive 使干涸的；减少血液的
-
-`n.`
-
-depletion 消耗；损耗；放血
-
-`v.`
-
-depleted 使减少；弄空；耗尽…的资源（deplete的过去分词）
-
-# deprive
-
-`n.`
-
-deprivation 剥夺；损失；免职
-
-# deter
-
-`n.`
-
-determent 制止；威慑
-
-# diffuse
-
-`adj.`
-
-diffused 散布的，扩散的；普及的
-
-diffusive 普及的；散布性的；冗长的
-
-`adv.`
-
-diffusely 广泛地；扩散地
-
-`n.`
-
-diffusion 扩散，传播；[光] 漫射
-
-diffuser [机] 扩散器；散布者
-
-diffuseness 扩散；漫无边际
-
-diffusor 扩散器；散布者；扩散体
-
-`v.`
-
-diffused 散布，传播（diffuse的过去分词）；使分散
-
-# digress
-
-`adj.`
-
-digressive 枝节的；离题的
-
-`n.`
-
-digression 离题；脱轨
-
-# discern
-
-`adj.`
-
-discernible 可辨别的；可识别的
-
-discerning 有辨识能力的；眼光敏锐的
-
-discernable 可辨别的；可认识的
-
-`n.`
-
-discernment 识别；洞察力；敏锐；眼力
-
-`v.`
-
-discerning 辨别（discern的ing形式）
-
-# deny
-
-`adj.`
-
-deniable 可否认的；可拒绝的；可否定的
-
-`n.`
-
-denial 否认；拒绝；节制；背弃
-
-# disclose
-
-`n.`
-
-disclosure [审计] 披露；揭发；被揭发出来的事情
-
-# discriminate
-
-`adj.`
-
-discriminatory 有辨识力的；差别对待的
-
-discriminating 识别的；有差别的；有识别力的
-
-discriminative 区别的，歧视的；有识别力的
-
-discriminable 可辨别的；可分别的
-
-`n.`
-
-discrimination 歧视；区别，辨别；识别力
-
-discriminator [电子] 鉴别器；辨别者
-
-`v.`
-
-discriminating 识别（discriminate的ing形式）；区别对待
-
-# disdain
-
-`adj.`
-
-disdainful 轻蔑的；倨傲的；鄙视的
-
-`adv.`
-
-disdainfully 轻蔑地；倨傲地
-
-`n.`
-
-disdainfulness 轻蔑；藐视
-
-# dismiss
-
-`adj.`
-
-dismissive 表示轻视的；解雇的
-
-dismissible 可解雇的
-
-`n.`
-
-dismissal 解雇；免职
-
-dismission 解散；免职
-
-# dispose
-
-`adj.`
-
-disposable 可任意处理的；可自由使用的；用完即可丢弃的
-
-disposed 有…倾向的；打算做…的；有某种健康状态的
-
-`n.`
-
-disposal 处理；支配；清理；安排
-
-disposition 处置；[心理] 性情；[军] 部署；倾向
-
-`v.`
-
-disposed 处理；配置；使适应（dispose的过去分词）；使有倾向
-
-# dispute
-
-`adj.`
-
-disputed 有争议的
-
-disputable 有讨论余地的；真假可疑的
-
-disputant 争论的
-
-disputative 好争论的；爱争辩的；有关争论的
-
-`n.`
-
-disputation 争论；辩论；驳斥
-
-disputant 争论者，辩论者
-
-`v.`
-
-disputed 争论；激烈争辩（dispute的过去分词）
-
-# disrupt
-
-`adj.`
-
-disruptive 破坏的；分裂性的；制造混乱的
-
-`n.`
-
-disruption 破坏，毁坏；分裂，瓦解
-
-# distort
-
-`adj.`
-
-distorted 歪曲的；受到曲解的
-
-`n.`
-
-distortion 变形；[物] 失真；扭曲；曲解
-
-`v.`
-
-distorted 扭曲（distortasd的过去式和过去分词）
-
-# distract
-
-`adj.`
-
-distracted 心烦意乱的；思想不集中的
-
-`adv.`
-
-distractedly 心烦意乱地
-
-`n.`
-
-distraction 注意力分散；消遣；心烦意乱
-
-distractor 错误选择；诱导答案
-
-distracter 误选项；干扰项
-
-`v.`
-
-distracted 分心（distract的过去式）
-
-# divert
-
-`adj.`
-
-diverting 有趣的；令人快乐的
-
-`n.`
-
-diversion 转移；消遣；分散注意力
-
-`v.`
-
-diverting 使转移；使得到消遣（divert的现在分词）
-
-# diverse
-
-`adj.`
-
-diversified 多样化的；各种的
-
-`adv.`
-
-diversely 不同地；各色各样地
-
-`n.`
-
-diversity 多样性；差异
-
-diversification 多样化；变化
-
-divarication 分歧；分叉；意见不同；分支
-
-diverseness 多样性；不同
-
-`v.`
-
-diversified 使…多样化（diversify的过去分词）
-
-`vt.`
-
-diversify 使多样化，使变化；增加产品种类以扩大
-
-# dominate
-
-`adj.`
-
-dominated 占主导地位的；强势的；占统治地位的；[数] 受控的
-
-dominating 主要的；独裁的；专横的
-
-`n.`
-
-dominance 优势；统治；支配
-
-domination 控制；支配
-
-`v.`
-
-dominated 控制，支配；处于支配地位（dominate的过去式）
-
-dominating 支配；统治（dominate的ing形式）
+intuitionist 直觉论者
 
 `vi.`
-
-dominate 占优势；处于支配地位
+intuit 凭直觉知道
 
 `vt.`
+intuit 由直觉知道
 
-dominate 控制；支配；占优势；在…中占主要地位
-
-# dupe
+﻿
+# investigate
 
 `adj.`
+investigative 研究的；调查的；好调查的
 
-duplicable 可加倍的；可再发生的，可复制的
+investigatory 调查的，审查的；研究的，好研究的
 
 `n.`
+investigation 调查；调查研究
 
-duplication 复制；副本；成倍
+investigator 研究者；调查者；侦查员
 
-dupe 上当者；易受骗的人
+﻿
+# involve
 
-duplicator 复印机；复制者
+`adj.`
+involved 有关的；卷入的；复杂的
 
-duplicability 可复制性，可加倍
+`n.`
+involvement 牵连；包含；混乱；财政困难
 
-`vt.`
+`v.`
+involved 涉及；使参与；包含（involve的过去式和过去分词）
 
-dupe 欺骗；愚弄（等于duplicate）
+﻿
+# irony
 
-# eccentric
+`adj.`
+irony 铁的；似铁的
+
+ironical 讽刺的（等于ironic）；用反语的
 
 `adv.`
-
-eccentrically 反常地；离开中心
+ironically 讽刺地；说反话地
 
 `n.`
+irony 讽刺；反语；具有讽刺意味的事
 
-eccentricity 古怪；怪癖；[数] 离心率
+ironist 讽刺家；讽刺作家
 
-# ecstatic
+﻿
+# irritate
+
+`adj.`
+irritating 刺激的；气人的；使愤怒的
+
+irritated 恼怒的，生气的
+
+irritant 刺激的；刺激性的
+
+irritative 刺激的；刺激性的；使发怒的
+
+`n.`
+irritation 刺激；刺激物；激怒；兴奋
+
+irritant [医] 刺激物，[医] 刺激剂
+
+irritability 过敏性；易怒；兴奋性
+
+`v.`
+irritating 刺激（irritate的ing形式）；激怒
+
+irritated 激怒；使…无效；使…兴奋（irritate的过去分词）
+
+﻿
+# isolate
+
+`adj.`
+isolated 孤立的；分离的；单独的；[电] 绝缘的
+
+isolating 孤立的；绝缘的
+
+isolationist 孤立主义的；孤立主义者的
+
+isolable 可孤立的；可隔离的
+
+`n.`
+isolation 隔离；孤立；[电] 绝缘；[化学] 离析
+
+isolationism 孤立主义
+
+isolationist 孤立主义者
+
+`v.`
+isolated 使孤立；使绝缘；脱离（isolate的过去分词）
+
+isolating 使隔离；使绝缘（isolate的ing形式）
+
+﻿
+# lament
+
+`adj.`
+lamentable 可悲的；可怜的；哀伤的
+
+lamented 令人遗憾的；被哀悼的
+
+lamenting 悲伤的；悲哀的
 
 `adv.`
-
-ecstatically 心醉神迷地；狂喜地
-
-# elate
-
-`adj.`
-
-elated 兴高采烈的；得意洋洋的
-
-elate 得意的
-
-`v.`
-
-elated 使兴奋（elate的过去式和过去分词）
-
-`vt.`
-
-elate 使…欢欣；使…兴高采烈
-
-# embarrass
-
-`adj.`
-
-embarrassed 尴尬的；窘迫的
-
-embarrassing 使人尴尬的；令人为难的
+lamentably 哀伤地；不幸地；拙劣地
 
 `n.`
-
-embarrassment 窘迫，难堪；使人为难的人或事物；拮据
-
-`v.`
-
-embarrassed 使...困窘；使...局促不安（embarrass的过去分词形式）
-
-# emerge
-
-`adj.`
-
-emerging 新兴的；出现的；形成的
-
-emergent 紧急的；浮现的；意外的；自然发生的
-
-`n.`
-
-emergence 出现，浮现；发生；露头
+lamentation 悲叹，哀悼；恸哭
 
 `v.`
+lamented 哀悼（lament的过去式和过去分词形式）
 
-emerging 形成；浮现；显露（emerge的ing形式）；由…中脱出
+lamenting 悲痛；哀悼；惋惜（lament的ing形式）
 
-# emphasis
-
-`vt.`
-
-emphasize 强调，着重
-
-emphasise （英）强调；加强…的语气（等于emphasize ）
-
-# endorse
+﻿
+# legitimate
 
 `adj.`
-
-endorsed 批注的；授让的
-
-`n.`
-
-endorsement 认可，支持；背书；签注（文件）
-
-endorser 背书人；转让人
-
-`v.`
-
-endorsed 支持，赞同（endorse的过去式）；批注（文件，公文等）
-
-# enhance
-
-`adj.`
-
-enhanced 加强的；增大的
-
-enhancive 加强的；增加的
-
-`n.`
-
-enhancement 增加；放大
-
-enhancer [遗] 增强子；强化剂；增加者
-
-`v.`
-
-enhanced 提高；加强（enhance的过去分词）
-
-# enigma
-
-`adj.`
-
-enigmatical 难解的；谜一般的；不可思议的
-
-# enlighten
-
-`adj.`
-
-enlightened 开明的；文明的；进步的；被启发的
-
-enlightening 使人领悟的；有启发作用的
-
-`n.`
-
-enlightenment 启迪；启蒙运动；教化
-
-`v.`
-
-enlightened 启迪（enlighten的过去式）
-
-enlightening 启蒙；通知（enlighten的ing形式）
-
-# enormous
+legitimatize 合法的；正当的
 
 `adv.`
-
-enormously 巨大地，庞大地；非常地，在极大程度上
-
-`n.`
-
-enormity 巨大；暴行；极恶
-
-# entertain
-
-`adj.`
-
-entertaining 令人愉快的
+legitimately 合理地；正当地
 
 `n.`
+legitimacy 合法；合理；正统
 
-entertainment 娱乐；消遣；款待
-
-entertainer 演艺人员，表演者
-
-`v.`
-
-entertaining 款待（entertain的ing形式）
-
-# epitome
+legitimation 合法化；承认为嫡出
 
 `vt.`
+legitimize 使…合法；立为嫡嗣
 
-epitomize 摘要；概括；成为…的缩影
+legitimise 使合法化（等于legitimize）
 
-epitomise 象征；体现；代表（等于epitomize）
+legitimatize 使合法化（等于legitimize）
 
-# erode
+﻿
+# magnanimous
 
-`adj.`
-
-eroded 被侵蚀的，损坏了
-
-eroding 侵蚀的
-
-erose 啮蚀状的；凹凸不平的；不规则形状的
-
-erosive 腐蚀的；冲蚀的；侵蚀性的
+`adv.`
+magnanimously 大度宽宏地，度量大地；高尚地
 
 `n.`
+magnanimity 宽宏大量；慷慨
 
-erosion 侵蚀，腐蚀
-
-`v.`
-
-eroded 侵蚀；损坏（erode的过去分词形式）
-
-eroding 侵蚀；磨损（erode的ing形式）
-
-# err
+﻿
+# mediate
 
 `adj.`
+mediatorial 调解的；仲裁的
 
-erring 做错的；错误的
+mediatory 调解的；斡旋的
 
-errorless 正确的，无错误的
+`adv.`
+medially 平均地，居中地；一般地
+
+`n.`
+mediation 调解；仲裁；调停
+
+mediator 调停者；传递者；中介物
+
+mediacy 调解；中间状态；媒介
+
+﻿﻿
+# nourish
+
+`adj.`
+nourishing 有营养的；滋养多的
+
+`n.`
+nourishment 食物；营养品；滋养品
 
 `v.`
+nourishing 滋养；养育（nourish的ing形式）
 
-erring 犯错误；越轨（err的ing形式）
+﻿
+# miserable
+
+`adv.`
+miserably 贫困地；可悲地；糟糕地；非常不幸地
+
+`n.`
+miserableness 糟糕）；可怜（简陋
+
+﻿
+# misinterpret
+
+`n.`
+misinterpretation 误解；误释
+
+﻿
+# mislead
+
+`adj.`
+misleading 令人误解的；引入歧途的
+
+`adv.`
+misleadingly 误导地
+
+`n.`
+misleader 错误引导者；错误领导人
+
+`v.`
+misleading 给…带错路；把…引入歧途（mislead的ing形式）
+
+﻿
+# monotone
+
+`adj.`
+monotonic 单调的；无变化的；产生单音调的
+
+monotone 单调的
+
+`adv.`
+monotonously 无变化地，单调地
+
+`n.`
+monotony 单调；千篇一律
+
+monotone 单调；单音调
+
+`vt.`
+monotone 单调地读
+
+﻿
+# proliferate
+
+`n.`
+proliferation 增殖，扩散；分芽繁殖
+
+﻿
+# motif
+
+`adj.`
+motor 汽车的；机动的
+
+motive 发动的；成为动机的
+
+motivated 有动机的；有积极性的
+
+motionless 静止的；不运动的
+
+motivational 动机的；激发性的；有关动机的；动机说明
+
+motional 运动的；起动的
+
+motiveless 无动机的
+
+`n.`
+motion 动作；移动；手势；请求；意向
+
+motivation 动机；积极性；推动
+
+motor 发动机，马达；汽车
+
+motive 动机，目的；主题
+
+motif 主题；动机；主旨；图形；意念
+
+motivator 动力；激励因素
+
+motivity 动力；原动力
+
+`v.`
+motivated 使产生动机；激发…的积极性（motivate的过去式和过去分词）
 
 `vi.`
+motion 运动；打手势
 
-err 犯错；做错；犯罪；走上歧途
-
-# essence
-
-`adj.`
-
-essential 基本的；必要的；本质的；精华的
-
-`adv.`
-
-essentially 本质上；本来
-
-`n.`
-
-essential 本质；要素；要点；必需品
-
-essentiality 重要性；本质；真髓；根本性
-
-# establish
-
-`adj.`
-
-established 确定的；已制定的，已建立的
-
-`n.`
-
-establishment 确立，制定；公司；设施
-
-# evade
-
-`adj.`
-
-evasive 逃避的；托辞的；推托的
-
-`adv.`
-
-evasively 逃避地；推诿地
-
-`n.`
-
-evasion 逃避；回避；借口
-
-evasiveness 逃避，推诿；模棱两可
-
-# evaluate
-
-`adj.`
-
-evaluative 可估价的
-
-`n.`
-
-evaluation 评价；[审计] 评估；估价；求值
-
-# evolve
-
-`adj.`
-
-evolutionary 进化的；发展的；渐进的
-
-evolutionism 进化论的
-
-`n.`
-
-evolution 演变；进化论；进展
-
-evolutionism [进化] 进化论
-
-# exaggerate
-
-`adj.`
-
-exaggerated 夸张的，言过其实的
-
-`adv.`
-
-exaggeratedly 夸张地
-
-`n.`
-
-exaggeration 夸张；夸大之词；夸张的手法
-
-`v.`
-
-exaggerated 夸张，夸大（exaggerate的过去式）
-
-# exclude
-
-`adj.`
-
-exclusive 独有的；排外的；专一的
-
-`adv.`
-
-exclusively 唯一地；专有地；排外地
-
-`n.`
-
-exclusive 独家新闻；独家经营的项目；排外者
-
-exclusion 排除；排斥；驱逐；被排除在外的事物
-
-exclusiveness 排他性；排外性；独占
-
-# exist
-
-`adj.`
-
-existing 目前的；现存的
-
-existent 存在的；生存的
-
-existential 存在主义的；有关存在的；存在判断的
-
-`n.`
-
-existence 存在，实在；生存，生活；存在物，实在物
-
-existent 生存者；存在的事物
-
-existentialism 存在主义
-
-`v.`
-
-existing 存在（exist的现在分词）
-
-# exploit
-
-`adj.`
-
-exploitative 剥削的；利用的；开发资源的
-
-exploitive 剥削的；开发资源的
-
-`n.`
-
-exploitation 开发，开采；利用；广告推销
-
-exploiter 开拓者；剥削者
-
-# extend
-
-`adj.`
-
-extensive 广泛的；大量的；广阔的
-
-extended 延伸的；扩大的；长期的；广大的
-
-extensible 可延长的；可扩张的
-
-extendable 可延长的；可展开的；可扩张的
-
-extensional 外延的；具体的；事实的
-
-extendible 可伸长的
-
-`adv.`
-
-extensively 广阔地；广大地
-
-`n.`
-
-extension 延长；延期；扩大；伸展；电话分机
-
-extensiveness 延伸；大范围
-
-`v.`
-
-extended 延长；扩充（extend的过去分词）
-
-# extravagant
-
-`adv.`
-
-extravagantly 挥霍无度地
-
-`n.`
-
-extravagance 奢侈，浪费；过度；放肆的言行
-
-# fallacy
-
-`adj.`
-
-fallacious 谬误的；骗人的；靠不住的；不合理的
-
-# feasible
-
-`n.`
-
-feasibility 可行性；可能性
-
-# feign
-
-`adj.`
-
-feigned 假的；做作的；捏造的
-
-`v.`
-
-feigned 假装；捏造（feign的过去式）
-
-# fertile
-
-`adj.`
-
-fertilizable 可受精的；可施肥的
-
-`n.`
-
-fertility 多产；肥沃；[农经] 生产力；丰饶
-
-fertilizer [肥料] 肥料；受精媒介物；促进发展者
-
-fertiliser 化肥（等于fertilizer）
-
-fertilisation 受精（等于fertilization）；肥沃
+motor 乘汽车
 
 `vt.`
+motion 运动；向…打手势
 
-fertilize 使受精；使肥沃
+motor 以汽车载运
 
-fertilise 使受精；施肥于；使肥沃
+motive 使产生动机，激起
 
-# inflate
-
-`adj.`
-
-inflated 通货膨胀的；充了气的；价格飞涨的；（植物）肿胀的
-
-inflatable 膨胀的，可充气的；得意的
-
-inflationary 通货膨胀的；通货膨胀倾向的；通货膨胀引起的
-
-`n.`
-
-inflation 膨胀；通货膨胀；夸张；自命不凡
-
-inflater 增压泵；充气者
-
-inflator 充气者；打气筒；增压泵
-
-`v.`
-
-inflated 膨胀（inflate的过去式和过去分词）；使充气；抬高（物价）
-
-# flex
+﻿
+# mourn
 
 `adj.`
-
-flex 弹性工作制的
-
-flexile 可弯曲的；柔韧的；可变通的
-
-flexuous 动摇不定的；弯曲的；波状的；[生物] 之字形的；不稳定的
+mournful 悲哀的；令人惋惜的
 
 `adv.`
-
-flexibly 灵活地；易曲地；柔软地；有弹性地
+mournfully 悲哀地；凄惨地
 
 `n.`
+mourning 哀痛；服丧
 
-flexibility 灵活性；弹性；适应性
+mourner 哀悼者；悲伤者；送葬者；忏悔者
 
-flex 屈曲；电线；松紧带
+`v.`
+mourning 哀伤；为…哀悼（mourn的ing形式）
 
-flexure 屈曲；折褶；弯曲部分
+﻿
+# munificent
 
-flexion 弯曲，弯曲状态；弯曲部分
+`n.`
+munificence 慷慨给与；宽宏大量
 
-flexibleness 可挠性；柔软性
+﻿
+# neglect
+
+`adj.`
+neglected 被忽视的；未被好好照管的
+
+neglectful 疏忽的；忽略的；不小心的
+
+`adv.`
+negligently 疏忽地；粗心大意地
+
+`n.`
+neglect 疏忽，忽视；怠慢
+
+negligence 疏忽；忽视；粗心大意
+
+`v.`
+neglected 忽视；疏忽（neglect的过去分词）
+
+`vt.`
+neglect 疏忽，忽视；忽略
+
+﻿
+# neutral
+
+`adj.`
+neuter 中性的；不及物的；无性的
+
+neutralized 中立化的
+
+`n.`
+neutrality 中立；中性；中立立场
+
+neuter 无性动物；中性名词；阉割动物
+
+neutralization [化学] 中和；[化学] 中和作用；中立状态
+
+neutralisation 中和；中立状态
+
+neutralism 中立；中立主义
+
+neutralist 中立主义者
+
+`v.`
+neutralized 中立化（neutralize的过去式和过去分词）
 
 `vi.`
+neutralize 中和；中立化；变无效
 
-flex 弯曲；收缩
+neutralise 中和
 
 `vt.`
+neutralize 抵销；使…中和；使…无效；使…中立
 
-flex 折曲；使收缩
+neutralise 中和；使中立；使无效
 
-# fluctuate
+﻿
+# noble
 
-`adj.`
-
-fluctuating 波动的；变动的
+`adv.`
+nobly 崇高地；高贵地；华丽地；豪爽地
 
 `n.`
+nobility 贵族；高贵；高尚
 
-fluctuation 起伏，波动
+nobleness 高贵；高尚；高洁
+
+﻿
+# nostalgic
+
+`adj.`
+nostalgic 怀旧的；乡愁的
+
+`adv.`
+nostalgically 怀乡地；恋旧地
+
+﻿
+# obscure
+
+`adv.`
+obscurely 费解地，晦涩地；隐匿地
+
+`n.`
+obscurity 朦胧；阴暗；晦涩；身份低微；不分明
+
+obscureness 难解；模糊
+
+﻿
+# observe
+
+`adj.`
+observed 观察的；观测的
+
+observant 善于观察的；机警的；严格遵守的
+
+observable 显著的；觉察得到的；看得见的
+
+observing 观察的；注意的；观察力敏锐的
+
+observational 观测的；根据观察的
+
+`adv.`
+observingly 注意观察地
+
+`n.`
+observation 观察；监视；观察报告
+
+observer 观察者；[天] 观测者；遵守者
+
+observance 惯例；遵守；仪式；庆祝
+
+observable [物] 可观察量；感觉到的事物
 
 `v.`
+observed 观察；遵守；注意到（observe的过去分词形式）
 
-fluctuating 波动（fluctuate的ing形式）
+observing 观察；遵守（observe的ing形式）
 
-# fluent
+﻿
+# obsess
+
+`adj.`
+obsessive 强迫性的；着迷的；分神的
 
 `adv.`
-
-fluently 流利地；通畅地
-
-`n.`
-
-fluency 流畅，流利
-
-# foresight
-
-`adj.`
-
-foresighted 深谋远虑的；有先见之明的；能预料的
-
-# fragile
+obsessively 过分地；着迷地，着魔似地
 
 `n.`
+obsession 痴迷；困扰；[内科][心理] 强迫观念
 
-fragility 脆弱；[力] 易碎性；虚弱
-
-# frugal
+﻿
+# obstinate
 
 `adv.`
-
-frugally 节约地；节省地
-
-`n.`
-
-frugality 俭省，节俭
-
-# fulfil
+obstinately 顽固地；固执地
 
 `n.`
+obstinacy 固执，顽固；（病痛等的）难治，难解除
 
-fulfillment 履行；实行
-
-fulfilment 实现；成就
-
-# futile
+﻿
+# oppose
 
 `adj.`
+opposite 相反的；对面的；对立的
 
-futureless 没有前途的；没有希望的
+opposed 相反的；敌对的
+
+opposing 反对的；相对的；对面的
+
+opposable 可反对的；可相对的
+
+oppositive 反对的；相反的
+
+`adv.`
+opposite 在对面
+
+oppositely 反向地；在相反的位置；面对面
 
 `n.`
+opposite 对立面；反义词
 
-futility 无用；徒劳；无价值
+opposition 反对；反对派；在野党；敌对
 
-# resonate
+opposer 反对者
 
-`adj.`
-
-resonant 洪亮的，共振的；共鸣的
-
-resonating 产生共鸣的
-
-`n.`
-
-resonator [声] 共鸣器，共鸣体；共振器
-
-resonating 感通
+`prep.`
+opposite 在…的对面
 
 `v.`
+opposed 反对（oppose的过去分词）；使对立
 
-resonating 产生共鸣；回响（resonate 的ing形式）
+opposing 反对（oppose的ing形式）
 
-`vi.`
-
-resonate 共鸣；共振
-
-`vt.`
-
-resonate 共鸣；共振
-
-# greed
+﻿
+# oppress
 
 `adj.`
-
-greedy 贪婪的；贪吃的；渴望的
+oppressive 压迫的；沉重的；压制性的；难以忍受的
 
 `adv.`
-
-greedily 贪婪地；贪食地
-
-`n.`
-
-greediness 贪吃；贪欲；嘴馋
-
-# gull
+oppressively 压迫地；沉重地
 
 `n.`
+oppression 压抑；镇压；压迫手段；沉闷；苦恼
 
-gull [鸟] 鸥；笨人；易受骗之人
+oppressor 压制者，压迫者
 
-gullibility 轻信；易受骗
-
-`vt.`
-
-gull 骗；欺诈
-
-# haste
+﻿
+# origin
 
 `adj.`
+original 原始的；最初的；独创的；新颖的
 
-hasty 轻率的；匆忙的；草率的；性怠的
+originative 有创作力的；有发明之才能的
 
 `adv.`
-
-hastily 匆忙地；急速地；慌忙地
+originally 最初，起初；本来
 
 `n.`
+original 原件；原作；原物；原型
 
-hastiness 轻率；性急；仓促
+origin 起源；原点；出身；开端
+
+originality 创意；独创性，创造力；原始；新奇
+
+originator 发起人；起源；起因
+
+origination 起源；开始；起始
+
+﻿
+# part
+
+`adj.`
+part 部分的
+
+partitioned 分割的；分区的；分段的
+
+partitive 区分的；表示部分的
+
+`adv.`
+part 部分地
+
+partially 部分地；偏袒地
+
+partly 部分地；在一定程度上
+
+`n.`
+part 部分；角色；零件
+
+partiality 偏心；偏袒；偏爱；癖好
+
+partialness 偏爱的，不公平的；部分
+
+partitive 表示部分的词
 
 `vi.`
-
-hasten 赶快；急忙
+part 断裂；分手
 
 `vt.`
+part 分离；分配；分开
 
-hasten 加速；使赶紧；催促
+partitioned 划分（partition的过去分词）；分割；把…分成部分
 
-# haughty
-
-`adv.`
-
-haughtily 傲慢地；骄傲地
+﻿
+# patron
 
 `n.`
+patronage 赞助；光顾；任免权
 
-haughtiness 傲慢；不逊
+patroness 女主顾；女资助人；女保护人
+
+`vt.`
+patronize 惠顾；资助；保护
+
+patronise （英）保护（等于patronize）
+
+﻿
+# peculiar
+
+`adv.`
+peculiarly 特别；尤其；古怪地；奇怪地
+
+`n.`
+peculiarity 特性；特质；怪癖；奇特
+
+﻿
+# penal
+
+`adj.`
+penal 刑事的；刑罚的
+
+`adv.`
+penally 用刑罚；刑事上
+
+`n.`
+penalty 罚款，罚金；处罚
+
+penalization 惩罚；处罚
+
+`vt.`
+penalise 惩罚，处罚；使…处于严重不利地位
+
+﻿
+# percept
+
+`adj.`
+perceived 感知到的；感观的
+
+perceptive 感知的，知觉的；有知觉力的
+
+perceptible 可察觉的；可感知的；看得见的
+
+perceivable 可知觉的，可感知的
+
+`adv.`
+perceptibly 显然地；可感觉得出地；看得出地
+
+`n.`
+perception 知觉；[生理] 感觉；看法；洞察力；获取
+
+percept 认知，认知的对象
+
+perceptibility 感觉力；理解力；可察觉性
+
+`v.`
+perceived 感知；认为（perceive的过去分词）；领会
+
+﻿
+# perpetuate
+
+`n.`
+perpetuation 不朽，永存
+
+﻿
+# perplex
+
+`adj.`
+perplexing 复杂的，令人费解的；令人困惑的
+
+perplexed 困惑的；不知所措的
+
+`adv.`
+perplexedly 为难地；困窘地
+
+`n.`
+perplexity 困惑；混乱
+
+﻿
+# persevere
+
+`adj.`
+persistent 固执的，坚持的；持久稳固的
+
+persevering 坚忍的；不屈不挠的
+
+`adv.`
+persistently 坚持地；固执地
+
+perseveringly 坚定地
+
+`n.`
+perseverance 坚持不懈；不屈不挠
+
+persistence 持续；固执；存留
+
+perseveration 持续言语（指言语反复不止的病态）；持续重复的行为；执拗
+
+`vi.`
+perseverate 患持续言语症；表现固执
+
+﻿
+# pertinent
+
+`adv.`
+pertinently 适切地
+
+`n.`
+pertinence 针对性；有关性，相关性
+
+pertinency 相关性，有关性；适切，妥当
+
+﻿
+# plausive
+
+`adj.`
+plausive 喝采的；似乎真实可信的（等于plausible）
+
+`adv.`
+plausibly 似真地
+
+`n.`
+plausibility 善辩；似乎有理；貌似可信
+
+﻿
+# poignant
+
+`adv.`
+poignantly 深刻地；辛辣地；令人辛酸地
+
+`n.`
+poignancy 辛辣；强烈；尖锐；辛酸事
+
+﻿
+# possess
+
+`adj.`
+possessive 占有的；所有的；所有格的；占有欲强的
+
+`n.`
+possession 拥有；财产；领地；自制；着迷
+
+possessive 所有格
+
+possessor 持有人；所有人
+
+possessiveness 占有；自制力
+
+﻿
+# preserve
+
+`adj.`
+preservative 防腐的；有保存力的；有保护性的
+
+preservable 可保存的；可保管的；能储藏的
+
+`n.`
+preservation 保存，保留
+
+preservative 防腐剂；预防法；防护层
+
+preserving 保留，保存
+
+preserver 保护者，保护人；保护剂，防腐剂；储藏柜
+
+﻿
+# presume
+
+`adv.`
+presumably 大概；推测起来；可假定
+
+`n.`
+presumption 放肆，傲慢；推测
+
+`vi.`
+presume 相信；擅自行为
+
+`vt.`
+presume 假定；推测；擅自；意味着
+
+﻿
+# pretend
+
+`adj.`
+pretended 假装的；虚假的
+
+`n.`
+pretense 借口；虚假；炫耀；自吹（等于pretence）
+
+pretence 假装；借口；虚伪
+
+pretender 冒牌者；妄求者；妄提要求者
+
+`v.`
+pretended 假装（pretend的过去式和过去分词）；装扮
+
+﻿
+# prevail
+
+`adj.`
+prevailing 流行的；一般的，最普通的；占优势的；盛行很广的
+
+`v.`
+prevailing 盛行，流行（prevail的现在分词形式）；获胜
+
+﻿
+# prominent
+
+`adv.`
+prominently 显著地
+
+`n.`
+prominence 突出；显著；突出物；卓越
+
+﻿
+# propose
+
+`adj.`
+proposed 被提议的；所推荐的
+
+`n.`
+proposal 提议，建议；求婚
+
+proposition [数] 命题；提议；主题；议题
+
+proponent 支持者；建议者；提出认证遗嘱者
+
+proposer 要保人；申请人；提案人
+
+`v.`
+proposed 提议；计划（propose的过去式和过去分词）
+
+`vt.`
+proposition 向…提议；向…求欢
+
+﻿
+# prospect
+
+`adj.`
+prospective 未来的；预期的
+
+`n.`
+prospective 预期；展望
+
+prospector 探勘者；采矿者
+
+prospectiveness 远景
+
+﻿
+# prosper
+
+`adj.`
+prosperous 繁荣的；兴旺的
+
+`adv.`
+prosperously 繁荣地；幸运地
+
+`n.`
+prosperity 繁荣，成功
+
+﻿
+# provoke
+
+`adj.`
+provoking 刺激的；令人生气的，激怒人的
+
+provoked 被激怒的；受到挑衅的
+
+`n.`
+provocation 挑衅；激怒；挑拨
+
+`v.`
+provoking 激怒；挑拨；诱发（provoke的ing形式）
+
+provoked 激起；挑衅（provoke的过去分词）
+
+﻿
+# prudent
+
+`adj.`
+prudential 谨慎的；明辨的
+
+`adv.`
+prudently 谨慎地；慎重地
+
+`n.`
+prudence 审慎
+
+﻿
+# rebel
+
+`adj.`
+rebellious 反抗的；造反的；难控制的
+
+`adv.`
+rebelliously 难以控制地；造反地
+
+`n.`
+rebellion 叛乱；反抗；谋反；不服从
+
+rebelliousness 造反；判逆性；难以控制
+
+﻿﻿
+# reconcile
+
+`adj.`
+reconcilable 不矛盾的；可和解的；可调和的
+
+`n.`
+reconciliation 和解；调和；和谐；甘愿
+
+﻿
+# recur
+
+`adj.`
+recurring 循环的；再发的
+
+recursive [数] 递归的；循环的
+
+recurrent 复发的；周期性的，经常发生的
+
+`adv.`
+recurrently 循环地（周而复始地）
+
+`n.`
+recurrence 再发生；循环；重现；重新提起
+
+recursion [数] 递归，循环；递归式
+
+`v.`
+recurring 返回（recur的现在分词）
+
+﻿﻿
+# refine
+
+`adj.`
+refined [油气][化工][冶] 精炼的；精确的；微妙的；有教养的
+
+`n.`
+refinement 精制；文雅；[化工][油气][冶] 提纯
+
+refinery 精炼厂；提炼厂；冶炼厂
+
+refining 精炼；改善
+
+refiner 精炼机；精制者，精炼者
+
+`v.`
+refining 精炼（refine的ing形式）
+
+﻿
+# refute
+
+`adj.`
+refutable 可驳倒的；容易驳倒的
+
+`n.`
+refutation 反驳；驳斥；辩驳
+
+refutal 驳斥；反驳
+
+﻿
+# rehabilitate
+
+`adj.`
+rehabilitative 复职的，复原的
+
+`n.`
+rehabilitation 复原
+
+﻿
+# reinforce
+
+`adj.`
+reinforced 加固的；加强的；加筋的
+
+`n.`
+reinforcement 加固；增援；援军；加强
+
+reinforcer 增强剂；加强件；增强材料；强化刺激
+
+`v.`
+reinforced 加强；增援（reinforce的过去分词）
+
+﻿
+# relevant
+
+`adv.`
+relevantly 贴切地；得要领地
+
+﻿
+# relief
+
+`adv.`
+relievedly 宽慰地
+
+`n.`
+relief 救济；减轻，解除；安慰
+
+`vt.`
+relieve 解除，减轻；使不单调乏味；换…的班；解围；使放心
+
+﻿
+# reluctant
+
+`adv.`
+reluctantly 不情愿地；嫌恶地
+
+`n.`
+reluctance [电磁] 磁阻；勉强；不情愿
+
+﻿
+# remedy
+
+`adj.`
+remedial 治疗的；补救的；矫正的
+
+remediable 可治疗的；可矫正的；可补救的
+
+`n.`
+remediation 补救；矫正；补习
+
+﻿
+# reminisce
+
+`adj.`
+reminiscent 怀旧的，回忆往事的；耽于回想的
+
+`adv.`
+reminiscently 怀旧地；回忆地
+
+`n.`
+reminiscent 回忆录作者；回忆者
+
+reminiscence 回忆；怀旧；引起联想的相似事物
+
+﻿
+# remorse
+
+`adj.`
+remorseful 懊悔的；悔恨的
+
+remorseless 冷酷的；不知过错的；坚持不懈的；不屈不挠的
+
+`adv.`
+remorselessly 无悔意地；冷酷地
+
+remorsefully 极为懊悔地
+
+﻿
+# renew
+
+`adj.`
+renewable 可再生的；可更新的；可继续的
+
+renewed 更新的；复兴的；重建的
+
+`n.`
+renewal 更新，恢复；复兴；补充；革新；续借；重申
+
+renewable 再生性能源
+
+`v.`
+renewed 更新；恢复（renew的过去分词）
+
+﻿
+# resemble
+
+`n.`
+resemblance 相似；相似之处；相似物；肖像
+
+﻿
+# resent
+
+`adj.`
+resentful 充满忿恨的；厌恶的
+
+`adv.`
+resentfully 充满愤恨地
+
+`n.`
+resentment 愤恨，怨恨
+
+﻿
+# resolve
+
+`adj.`
+resolved 下定决心的；已解决的；断然的
+
+resolvable 可分解的；可解决的；可溶解的
+
+resolvent 分解的；有溶解力的；消散的
+
+`adv.`
+resolutely 坚决地；毅然地
+
+`n.`
+resolution [物] 分辨率；决议；解决；决心
+
+resolving 分解；解析
+
+resolvent 溶剂；分解物；消肿药
+
+`v.`
+resolved 解决；决定；分解；转变（resolve的过去分词）
+
+resolving 分辨（resolve的ing形式）；分解；决定；解决矛盾
+
+﻿
+# restore
+
+`adj.`
+restorative 滋补的，有助于复元的；恢复健康的
+
+`n.`
+restoration 恢复；复位；王政复辟；归还
+
+restorative [药] 恢复药，滋补剂
+
+restorer 修补者；[计] 复位器；[计] 恢复设备；修建者
+
+﻿
+# restrain
+
+`adj.`
+restrained 克制的，受限制的；拘谨的
+
+`n.`
+restraint 抑制，克制；约束
+
+restrainer [摄] 抑制剂（尤指摄影中用的溴化钾等）；限制器；控制者
+
+`v.`
+restrained 抑制；约束（restrain的过去分词）
+
+﻿
+# retaliate
+
+`adj.`
+retaliatory 报复的
+
+`n.`
+retaliation 报复；反击；回敬
+
+﻿
+# reverse
+
+`adj.`
+reversible 可逆的；可撤消的；可反转的
+
+reversed 颠倒的；相反的；（判决等）撤销的
+
+reversionary 倒退的；复归的；应继承的；将来应享有的
+
+`adv.`
+reversely 相对地；反对地；反面地
+
+reversibly 可逆地
+
+`n.`
+reversal 逆转；[摄] 反转；[法] 撤销
+
+reversible 双面布料
+
+reversion 逆转；回复；归还；[遗] 隔代遗传；[法] 继承权
+
+reversibility [数] 可逆性；可撤销；可反转性
+
+`v.`
+reversed 颠倒（reverse的过去式和过去分词）；翻转
+
+﻿
+# revise
+
+`adj.`
+revised 改进的
+
+`n.`
+revision [印刷] 修正；复习；修订本
+
+revisionism 修正主义
+
+revisal 修正；修订
+
+reviser 校订者；修订者
+
+`v.`
+revised 修改；校订；复习（revise的过去分词形式）
+
+﻿
+# revive
+
+`adj.`
+revived 复活的，再生的
+
+`n.`
+revival 复兴；复活；苏醒；恢复精神；再生效
+
+revivalism 信仰复兴运动；复兴倾向
+
+revivalist 领导宗教复兴运动的人；复旧者
+
+revivification 恢复，还原；复活
+
+`v.`
+revived 使复活，使恢复（revive的过去式）
+
+`vi.`
+revivify 复活，再生；振奋精神
+
+`vt.`
+revivify 使再生，使复活；使振奋精神
+
+﻿
+# revoke
+
+`adj.`
+revokable 可取消的，可废止的；可撤回的
+
+﻿﻿
+# rigid
+
+`adj.`
+rigorous 严格的，严厉的；严密的；严酷的
+
+`adv.`
+rigidly 严格地；坚硬地；严厉地；牢牢地
+
+`n.`
+rigidity [物] 硬度，[力] 刚性；严格，刻板；僵化；坚硬
+
+rigor 严厉；精确；苛刻；僵硬
+
+rigidness 坚硬；严厉
+
+`vi.`
+rigidify 僵化；固定
+
+`vt.`
+rigidify 使…僵化；使…固定
+
+﻿
+# rigor
+
+`adj.`
+rigid 严格的；僵硬的，死板的；坚硬的；精确的
+
+rigorous 严格的，严厉的；严密的；严酷的
+
+`adv.`
+rigorously 严厉地；残酷地
+
+rigidly 严格地；坚硬地；严厉地；牢牢地
+
+`n.`
+rigour 严格；严厉；苛刻；精确
+
+rigidness 坚硬；严厉
+
+rigorousness 残酷，严厉
+
+﻿
+# scarce
+
+`adv.`
+scarcely 几乎不，简直不；简直没有
+
+`n.`
+scarcity 不足；缺乏
+
+scarceness 稀少；缺乏
+
+﻿
+# scrutiny
+
+`n.`
+scrutinize 仔细或彻底检查
+
+`vi.`
+scrutinize 细阅；作详细检查
+
+scrutinise 作仔细检查；细致观察
+
+`vt.`
+scrutinize 详细检查；细看
+
+scrutinise 细看；仔细观察或检查；核对（等于scrutinize）
+
+﻿
+# seclude
+
+`adj.`
+secluded 隐蔽的；隐退的，隐居的
+
+`n.`
+secrecy 保密；秘密；隐蔽
+
+`v.`
+secluded 隔绝（seclude的过去式）
+
+`vt.`
+seclude 使隔离，使隔绝
+
+﻿
+# severe
+
+`adv.`
+severely 严重地；严格地，严厉地；纯朴地
+
+`n.`
+severity 严重；严格；猛烈
+
+severeness 严重；艰难；紧凑；纯朴
+
+﻿
+# simulate
+
+`adj.`
+simulated 模拟的；模仿的；仿造的
+
+`n.`
+simulation 仿真；模拟；模仿；假装
+
+simulator 模拟器；假装者，模拟者
+
+`v.`
+simulated 模仿（simulate的变形）；假装
+
+﻿﻿
+# solitary
+
+`adv.`
+solitarily 寂寞地；独自一人地
+
+`n.`
+solitude 孤独；隐居；荒僻的地方
+
+solitariness 隐居；单独
+
+﻿
+# speculate
+
+`adj.`
+speculative 投机的；推测的；思索性的
+
+`n.`
+speculation 投机；推测；思索；投机买卖
+
+speculator 投机者；思索者
+
+speculativeness 思辩
+
+﻿
+# stereotype
+
+`adj.`
+stereotyped 用铅版印刷的；老一套的
+
+`v.`
+stereotyped 把…浇铸成铅版；使成为陈规（stereotype的过去分词）
+
+`vt.`
+sterilize 消毒，杀菌；使成不毛；使绝育；使不起作用
+
+﻿
+# stimulus
+
+`adj.`
+stimulating 刺激的；有刺激性的
+
+stimulated 受激的
+
+stimulant 激励的；使人兴奋的
+
+stimulative 促进的；刺激的；激励的
+
+`n.`
+stimulus 刺激；激励；刺激物
+
+stimulation 刺激；激励，鼓舞
+
+stimulant [药] 兴奋剂；刺激物；酒精饮料
+
+stimulative 刺激；促进因素
+
+`v.`
+stimulating 刺激；激励；促进（stimulate的ing形式）
+
+stimulated 刺激（stimulate的过去式和过去分词）
+
+﻿
+# strategy
+
+`adj.`
+strategic 战略上的，战略的
+
+`adv.`
+strategically 战略性地；战略上
+
+`n.`
+strategist 战略家；军事家
+
+stratagem 策略；计谋
+
+﻿
+# submit
+
+`adj.`
+subordinate 从属的；次要的
+
+subordinating 连接主句和从句的；从属的
+
+`n.`
+subordinate 下属，下级；部属，属下
+
+submission 投降；提交（物）；服从；（向法官提出的）意见；谦恭
+
+submissiveness 柔顺；服从
+
+`v.`
+subordinating 使服从（subordinate的ing形式）；使成为下级
+
+`vi.`
+submit 提交；服从
+
+`vt.`
+submit 使服从；主张；呈递
+
+subordinate 使……居下位；使……服从
+
+﻿
+# subtle
+
+`adv.`
+subtly 精细地；巧妙地；敏锐地
+
+`n.`
+subtlety 微妙；敏锐；精明
+
+`vi.`
+subtilize 过分精细；微妙化
+
+`vt.`
+subtilize 使稀薄；使精细
+
+﻿
+# supplement
+
+`adj.`
+supplementary 补充的；追加的
+
+supplemental 补充的（等于supplementary）；追加的
+
+`n.`
+supplementary 补充者；增补物
+
+supplementation 补充；增补
+
+﻿
+# suppress
+
+`adj.`
+suppressed 抑制的，发育不全的
+
+suppressant 制止的；抑制性的；遏抑的
+
+suppressive 抑制的；镇压的
+
+`n.`
+suppression 抑制；镇压；[植] 压抑
+
+suppressant 抑制药
+
+suppressor 抑制器；消除器
+
+suppresser 镇压者；抑制器
+
+`v.`
+suppressed 镇压，禁止（suppress的过去时和过去分词）
+
+﻿
+# susceptible
+
+`n.`
+susceptibility 敏感性；感情；磁化系数
+
+﻿
+# sympathy
+
+`adj.`
+sympathetic 同情的；交感神经的；共鸣的；赞同的；和谐的；合意的
+
+`adv.`
+sympathetically 悲怜地，怜悯地；富有同情心地
+
+`n.`
+sympathy 同情；慰问；赞同
+
+sympathetic 交感神经；容易感受的人
+
+sympathizer 同情者；支持者；交感患病的眼睛（等于sympathiser）
+
+`vi.`
+sympathise 同情；吊唁；共鸣（等于sympathize）
+
+﻿
+# tedium
+
+`adv.`
+tediously 沉闷地；冗长而乏味地
+
+`n.`
+tedium 沉闷；单调乏味；厌烦
+
+tediousness 沉闷；乏味
+
+﻿
+# tempt
+
+`adj.`
+tempting 吸引人的；诱惑人的
+
+temptable 可诱惑的；易被诱惑的
+
+`adv.`
+temptingly 诱惑人地；迷人地
+
+`n.`
+temptation 引诱；诱惑物
+
+temptress 引诱男人的女性
+
+tempter 诱惑者；魔鬼；撒旦
+
+`v.`
+tempting 引诱（tempt的ing形式）
+
+﻿
+# tense
+
+`adj.`
+tense 紧张的；拉紧的
+
+tensile [力] 拉力的；可伸长的；可拉长的
+
+tensed 紧的；紧张的
+
+tensional 张力的；紧张的
+
+`adv.`
+tensely 紧张地；拉紧地
+
+`n.`
+tense 时态
+
+tensor [数] 张量；[解剖] 张肌
+
+tenseness 紧张；绷紧
+
+tensiometer 张力计；表面张力计；土壤湿度计
+
+tensity 紧张度，紧张
+
+`v.`
+tensed 拉紧；变为紧张（tense的过去分词）
+
+`vi.`
+tense 拉紧，变得紧张
+
+`vt.`
+tense 变得紧张；使拉紧
+
+﻿
+# timid
+
+`adj.`
+timorous 胆怯的；胆小的；羞怯的
+
+`adv.`
+timidly 羞怯地；胆小地
+
+timorously 羞怯地；容易受惊地
+
+`n.`
+timidity 胆怯，胆小；羞怯
+
+timidness 羞怯；胆小
+
+﻿
+# tolerant
+
+`adj.`
+tolerant 宽容的；容忍的；有耐药力的
+
+`adv.`
+tolerantly 宽容地，容忍地
+
+`n.`
+tolerance 公差；宽容；容忍；公差
+
+toleration 宽容，忍受，默认；耐受性
+
+tolerator 杠杆式比长仪
+
+﻿
+# poison
+
+`adj.`
+poisonous 有毒的；恶毒的；讨厌的
+
+`n.`
+poisoning 中毒
+
+poisoner 投毒者；毒害者
+
+`v.`
+poisoning 毒害（poison的ing形式）
+
+﻿
+# transmit
+
+`adj.`
+transmitted 透射的
+
+transmitting 传送中
+
+transmissible 能传送的；能透射的；可传达的
+
+`n.`
+transmission 传动装置，[机] 变速器；传递；传送；播送
+
+transmitter [电讯] 发射机，[通信] 发报机；传达人
+
+transmittance [光] 透射比；透明度
+
+transmittal 传输；传送；被传送
+
+transmitting 传送，传递
+
+`v.`
+transmitted 传输；传送（transmit的过去分词）
+
+transmitting 传递，发射（transmite的现在分词形式）
+
+﻿
+# transparent
+
+`adv.`
+transparently 显然地，易觉察地；明亮地
+
+`n.`
+transparency 透明，透明度；幻灯片；有图案的玻璃
+
+transparence 透明；透明度
+
+﻿
+# trauma
+
+`n.`
+trauma [外科] 创伤（由心理创伤造成精神上的异常）；外伤
+
+traumatology 创伤学，外伤学
+
+`vt.`
+traumatize 使……受损伤；使……受精神创伤
+
+﻿
+# triumph
+
+`adj.`
+triumphant 成功的；得意洋洋的；狂欢的
+
+triumphal 凯旋的，胜利的
+
+`adv.`
+triumphantly 成功地；耀武扬威地
+
+﻿
+# trivial
+
+`adv.`
+trivially 琐细地；平凡地；无能地
+
+`n.`
+triviality 浅薄，轻浮；琐事；平凡
+
+`vt.`
+trivialize 使平凡；使琐碎
+
+﻿
+# unanimous
+
+`adv.`
+unanimously 全体一致地
+
+`n.`
+unanimity 同意，全体一致
+
+﻿
+# universe
+
+`adj.`
+universalist 普救说的
+
+`adv.`
+universally 普遍地；人人；到处
+
+`n.`
+universe 宇宙；世界；领域
+
+universality 普遍性；广泛性；一般性；多方面性
+
+universalism 普遍主义；普遍性；普救论
+
+universalist 信普救说者；普遍主义者
+
+`vt.`
+universalize 使普遍化，使一般化
+
+﻿
+# vacant
+
+`adv.`
+vacantly 神情茫然地
+
+`n.`
+vacancy 空缺；空位；空白；空虚
+
+vacuity 空虚；空白；思想贫乏；无聊之事
+
+﻿
+# valid
+
+`adj.`
+validated 经过验证的
+
+validating 确认的；有效的
+
+`adv.`
+validly 合法地；正当地；妥当地
+
+`n.`
+validity [计] 有效性；正确；正确性
+
+validation 确认；批准；生效
+
+validating 确认
+
+validness 有效；正确
+
+`v.`
+validated 确认（validate的过去式及过去分词形式）；使生效
+
+validating 验证（validate的ing形式）；确认
+
+`vt.`
+validate 证实，验证；确认；使生效
+
+﻿
+# versatile
+
+`n.`
+versatility 多功能性；多才多艺；用途广泛
+
+﻿
+# vulnerably
+
+`adv.`
+vulnerably 脆弱地；易受伤害地
+
+`n.`
+vulnerability 易损性；弱点
+
+﻿
+# vital
+
+`adv.`
+vitally 极其；紧要地；生死攸关地
+
+`n.`
+vitality 活力，生气；生命力，生动性
+
+vitalism [生物] 活力论；[生物] 生机说
+
+vitalist 活力论者
+
+vitalization 赋予生命
+
+vitalness 充满活力
+
+`vt.`
+vitalize 赋予…生命；激发；使有生气
+
+﻿
+# weary
+
+`adj.`
+wearing 磨损的；穿用的；令人疲倦的
+
+wearisome 使疲倦的；使厌倦的；乏味的
+
+`adv.`
+wearily 疲倦地；无聊地；厌倦地
+
+`n.`
+weariness 疲倦，疲劳；厌倦
+
+`v.`
+wearing 穿着；磨损（wear的ing形式）
+
+﻿
+# withdraw
+
+`adj.`
+withdrawn 偏僻的；沉默寡言的；孤独的
+
+withdrawable 可抽出的；可更换的；可拆卸的；能够提取的
+
+`n.`
+withdrawal 撤退，收回；提款；取消；退股
+
+withdrawer 回收者；回收器；弃权者（withdraw的名词形式）
+
+`v.`
+withdrawn 取出；撤退（withdraw的过去分词）
